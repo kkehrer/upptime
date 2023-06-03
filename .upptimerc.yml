@@ -3,14 +3,36 @@ owner: kkehrer # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: Keey
+    url: https://keey.ch
+  - name: TXgroup
+    url: https://tx.group
+  - name: Ecoreal
+    url: https://www.ecoreal.ch
   - name: Bitowl
     url: https://bitowl.ch
   - name: PixelPirat
     url: https://pixelpirat.ch
   - name: Bartsch-Consulting
     url: https://www.bartsch-consulting.ch
+  - name: TanDem
+    url: https://tan-dem.co
+  - name: Wellenreiter
+    url: https://www.wellenreiter.consulting
+  - name: Cavedelorge
+    url: https://cavedelorge.ch
+  - name: Goldhahn
+    url: https://goldhahn.swiss
+  - name: StudioPM
+    url: https://studiopm.ch
+  - name: Seilers-Werbeblog
+    url: https://www.seilers-werbeblog.ch
+  - name: Sakartwelo
+    url: https://www.sakartwelo.com
   - name: Scharlachrot
     url: https://scharlachrot.ch
+  - name: WSchneider
+    url: https://www.wschneider.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
