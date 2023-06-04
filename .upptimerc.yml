@@ -3,34 +3,92 @@ owner: kkehrer # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Keey
-    url: https://keey.ch
-  - name: TXgroup
-    url: https://tx.group
-  - name: Ecoreal
-    url: https://www.ecoreal.ch
-  - name: Bitowl
-    url: https://bitowl.ch
-  - name: PixelPirat
-    url: https://pixelpirat.ch
   - name: Bartsch-Consulting
     url: https://www.bartsch-consulting.ch
-  - name: TanDem
-    url: https://tan-dem.co
-  - name: Wellenreiter
-    url: https://www.wellenreiter.consulting
+  - name: Bitowl
+    url: https://bitowl.ch
   - name: Cavedelorge
     url: https://cavedelorge.ch
   - name: Goldhahn
     url: https://goldhahn.swiss
-  - name: StudioPM
-    url: https://studiopm.ch
-  - name: Seilers-Werbeblog
-    url: https://www.seilers-werbeblog.ch
+  - name: Keey
+    url: https://keey.ch
+  - name: PixelPirat
+    url: https://pixelpirat.ch
   - name: Sakartwelo
     url: https://www.sakartwelo.com
+  - name: Seilers-Werbeblog
+    url: https://www.seilers-werbeblog.ch
+  - name: StudioPM
+    url: https://studiopm.ch
+  - name: TanDem
+    url: https://tan-dem.co
+  - name: Wellenreiter
+    url: https://www.wellenreiter.consulting
+
+  - name: AlegraCapital
+    url: https://www.alegracapital.com
+al-pianton.ch
+  - name: Ammann-Ing
+    url: http://www.ammann-ing.ch
+  - name: Benz-Hauswartungen
+    url: https://www.benz-hauswartungen.ch
+  - name: Blechworks
+    url: http://www.blechworks.ch
+  - name: Casanatale
+    url: https://www.casanatale.ch
+  - name: Cevest
+    url: https://www.cevest.ch
+  - name: Christen-Metallbau
+    url: https://www.christen-metallbau.ch
+  - name: 
+    url: https://www.cp-helmets.com
+  - name: CP-Helmets
+    url: https://www.dianit.ch
+  - name: Ecoreal
+    url: https://www.ecoreal.ch
+  - name: Fato-Reinigungen
+    url: https://www.fato-reinigungen.ch
+  - name: IGP-Company-Challenge
+    url: https://www.igp-company-challenge.com
+  - name: IGPontour
+    url: https://ontour.igp-powder.com
+  - name: iwo
+    url: https://www.iwo.ch
+  - name: iwo-Wohnportal
+    url: https://www.iwo-wohnportal.ch
+  - name: Kammerchor-ZO
+    url: https://www.kammerchor-zo.ch
+  - name: KAPAG
+    url: https://www.kapag.com
+  - name: Kochen-am-Tisch
+    url: https://www.kochenamtisch.ch
+  - name: LSB
+    url: https://www.lsbag.ch
+  - name: Muusliburg
+    url: https://www.muusliburg.ch
+  - name: Oppboga
+    url: https://www.oppboga.com
+  - name: Peyer-Marking
+    url: https://www.peyer-marking.ch
+  - name: Preli
+    url: https://www.preli.ch
+  - name: RMC
+    url: http://www.rmc-consulting.ch
   - name: Scharlachrot
     url: https://scharlachrot.ch
+  - name: Schartenfels-Immobilien
+    url: https://www.schartenfels-immobilien.ch
+  - name: SchmidReisen
+    url: https://www.schmidreisen.ch
+  - name: Tägi
+    url: https://www.taegi.ch
+  - name: Taormina
+    url: https://www.taormina-law.ch
+  - name: TXgroup
+    url: https://tx.group
+  - name: UniqueReal
+    url: https://www.uniquereal.ch
   - name: WSchneider
     url: https://www.wschneider.com
 
@@ -43,7 +101,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data of some of my websites.
-  theme: ocean
+  theme: light
   navbar:
     - title: Status
       href: /
