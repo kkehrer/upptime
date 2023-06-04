@@ -25,7 +25,6 @@ sites:
     url: https://tan-dem.co
   - name: Wellenreiter
     url: https://www.wellenreiter.consulting
-
   - name: AlegraCapital
     url: https://www.alegracapital.com
   - name: Al-Pianton
@@ -42,9 +41,9 @@ sites:
     url: https://www.cevest.ch
   - name: Christen-Metallbau
     url: https://www.christen-metallbau.ch
-  - name: 
-    url: https://www.cp-helmets.com
   - name: CP-Helmets
+    url: https://www.cp-helmets.com
+  - name: Dianit
     url: https://www.dianit.ch
   - name: Ecoreal
     url: https://www.ecoreal.ch
