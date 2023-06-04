@@ -28,7 +28,8 @@ sites:
 
   - name: AlegraCapital
     url: https://www.alegracapital.com
-al-pianton.ch
+  - name: Al-Pianton
+    url: https://www.al-pianton.ch
   - name: Ammann-Ing
     url: http://www.ammann-ing.ch
   - name: Benz-Hauswartungen
