@@ -22,19 +22,19 @@
     "url": "https://bitowl.ch",
     "icon": "https://icons.duckduckgo.com/ip3/bitowl.ch.ico",
     "slug": "bitowl",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.89%",
-    "time": 4469,
-    "timeDay": 5493,
-    "timeWeek": 4469,
-    "timeMonth": 4469,
-    "timeYear": 4469,
+    "status": "up",
+    "uptime": "97.65%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.65%",
+    "time": 4991,
+    "timeDay": 6132,
+    "timeWeek": 4991,
+    "timeMonth": 4991,
+    "timeYear": 4991,
     "dailyMinutesDown": {
-      "2023-06-05": 29
+      "2023-06-05": 62
     }
   },
   {
