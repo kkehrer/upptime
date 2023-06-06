@@ -32,11 +32,11 @@ sites:
   - name: Al-Pianton
     url: https://www.al-pianton.ch
   - name: Ammann-Ing
-    url: http://www.ammann-ing.ch
+    url: https://www.ammann-ing.ch
   - name: Benz-Hauswartungen
     url: https://www.benz-hauswartungen.ch
   - name: Blechworks
-    url: http://www.blechworks.ch
+    url: https://www.blechworks.ch
   - name: Casanatale
     url: https://www.casanatale.ch
   - name: Cevest
@@ -76,7 +76,7 @@ sites:
   - name: Preli
     url: https://www.preli.ch
   - name: RMC
-    url: http://www.rmc-consulting.ch
+    url: https://www.rmc-consulting.ch
   - name: Scharlachrot
     url: https://scharlachrot.ch
   - name: Schartenfels-Immobilien
