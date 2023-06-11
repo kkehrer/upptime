@@ -22,19 +22,19 @@
     "url": "https://bitowl.ch",
     "icon": "https://icons.duckduckgo.com/ip3/bitowl.ch.ico",
     "slug": "bitowl",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 7553,
     "timeDay": 10836,
     "timeWeek": 8983,
     "timeMonth": 7553,
     "timeYear": 7553,
     "dailyMinutesDown": {
-      "2023-06-11": 43
+      "2023-06-11": 62
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sakartwelo.com.ico",
     "slug": "sakartwelo",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.61%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 2409,
     "timeDay": 1715,
     "timeWeek": 2331,
     "timeMonth": 2409,
     "timeYear": 2409,
     "dailyMinutesDown": {
-      "2023-06-11": 26
+      "2023-06-11": 45
     }
   },
   {
