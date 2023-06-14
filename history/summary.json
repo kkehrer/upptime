@@ -438,10 +438,10 @@
     "url": "https://ontour.igp-powder.com",
     "icon": "https://icons.duckduckgo.com/ip3/ontour.igp-powder.com.ico",
     "slug": "ig-pontour",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1699,
@@ -449,7 +449,9 @@
     "timeWeek": 1780,
     "timeMonth": 1699,
     "timeYear": 1699,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-14": 1
+    }
   },
   {
     "name": "iwo",
