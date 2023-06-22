@@ -4,10 +4,10 @@
     "url": "https://www.bartsch-consulting.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.bartsch-consulting.ch.ico",
     "slug": "bartsch-consulting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1614,
@@ -15,7 +15,9 @@
     "timeWeek": 1929,
     "timeMonth": 1614,
     "timeYear": 1614,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-22": 1
+    }
   },
   {
     "name": "Bitowl",
