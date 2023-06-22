@@ -347,18 +347,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.compasso.ch.ico",
     "slug": "compasso",
     "status": "down",
-    "uptime": "3.03%",
-    "uptimeDay": "3.03%",
-    "uptimeWeek": "3.03%",
-    "uptimeMonth": "3.03%",
-    "uptimeYear": "3.03%",
+    "uptime": "1.45%",
+    "uptimeDay": "1.45%",
+    "uptimeWeek": "1.45%",
+    "uptimeMonth": "1.45%",
+    "uptimeYear": "1.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-22": 1
+      "2023-06-22": 2
     }
   },
   {
