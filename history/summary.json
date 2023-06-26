@@ -340,19 +340,19 @@
     "url": "https://www.christen-metallbau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.christen-metallbau.ch.ico",
     "slug": "christen-metallbau",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "92.96%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 1342,
     "timeDay": 6141,
     "timeWeek": 2148,
     "timeMonth": 1342,
     "timeYear": 1342,
     "dailyMinutesDown": {
-      "2023-06-26": 101
+      "2023-06-26": 102
     }
   },
   {
@@ -421,18 +421,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ecoreal.ch.ico",
     "slug": "ecoreal",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "90.31%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.54%",
+    "uptimeDay": "89.47%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 1087,
     "timeDay": 1416,
     "timeWeek": 1183,
     "timeMonth": 1087,
     "timeYear": 1087,
     "dailyMinutesDown": {
-      "2023-06-26": 140
+      "2023-06-26": 152
     }
   },
   {
@@ -721,18 +721,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.schartenfels-immobilien.ch.ico",
     "slug": "schartenfels-immobilien",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "90.88%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.55%",
+    "uptimeDay": "90.03%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 1367,
     "timeDay": 1906,
     "timeWeek": 1465,
     "timeMonth": 1367,
     "timeYear": 1367,
     "dailyMinutesDown": {
-      "2023-06-26": 131
+      "2023-06-26": 144
     }
   },
   {
