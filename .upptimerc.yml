@@ -31,6 +31,8 @@ sites:
     url: https://www.al-pianton.ch
   - name: Ammann-Ing
     url: https://www.ammann-ing.ch
+  - name: Amosa
+    url: https://amosa.net
   - name: Benz-Hauswartungen
     url: https://www.benz-hauswartungen.ch
   - name: Blechworks
@@ -51,6 +53,8 @@ sites:
     url: https://www.ecoreal.ch
   - name: Fato-Reinigungen
     url: https://www.fato-reinigungen.ch
+  - name: Gruenden
+    url: https://www.gruenden.ch/
   - name: IGP-Company-Challenge
     url: https://www.igp-company-challenge.com
   - name: iwo
@@ -91,6 +95,8 @@ sites:
     url: https://proxy-prod.solutions.webfg.ch/mdp-auth/tamedia/v1/solid/quotes/tamedia/?listID=1117825-4-1
   - name: UniqueReal
     url: https://www.uniquereal.ch
+  - name: Wirtschaftsraum-ZH
+    url: https://www.wirtschaftsraum-zuerich.ch/
   - name: WSchneider
     url: https://www.wschneider.com
 
