@@ -149,29 +149,27 @@
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2798,
     "timeDay": 3506,
     "timeWeek": 3573,
     "timeMonth": 3175,
     "timeYear": 2798,
-    "dailyMinutesDown": {
-      "2023-07-15": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TanDem",
     "url": "https://tan-dem.co",
     "icon": "https://icons.duckduckgo.com/ip3/tan-dem.co.ico",
     "slug": "tan-dem",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1808,
@@ -179,7 +177,9 @@
     "timeWeek": 1565,
     "timeMonth": 1623,
     "timeYear": 1808,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-15": 1
+    }
   },
   {
     "name": "Wellenreiter",
