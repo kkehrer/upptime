@@ -148,10 +148,10 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2782,
@@ -159,7 +159,9 @@
     "timeWeek": 3565,
     "timeMonth": 3161,
     "timeYear": 2782,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-15": 1
+    }
   },
   {
     "name": "TanDem",
@@ -890,19 +892,19 @@
     "url": "https://www.uniquereal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.uniquereal.ch.ico",
     "slug": "unique-real",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.78%",
-    "time": 1446,
-    "timeDay": 1282,
-    "timeWeek": 1208,
-    "timeMonth": 1578,
-    "timeYear": 1446,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.76%",
+    "time": 1442,
+    "timeDay": 1267,
+    "timeWeek": 1211,
+    "timeMonth": 1569,
+    "timeYear": 1442,
     "dailyMinutesDown": {
-      "2023-07-15": 1,
+      "2023-07-15": 12,
       "2023-06-26": 130
     }
   },
