@@ -13,7 +13,7 @@
     "time": 1763,
     "timeDay": 1716,
     "timeWeek": 1991,
-    "timeMonth": 1930,
+    "timeMonth": 1935,
     "timeYear": 1763,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 4346,
     "timeDay": 2750,
     "timeWeek": 2769,
-    "timeMonth": 2556,
+    "timeMonth": 2540,
     "timeYear": 4346,
     "dailyMinutesDown": {}
   },
@@ -40,18 +40,20 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4840,
     "timeDay": 4433,
     "timeWeek": 4432,
-    "timeMonth": 4842,
+    "timeMonth": 4861,
     "timeYear": 4840,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-18": 1
+    }
   },
   {
     "name": "Goldhahn",
@@ -67,7 +69,7 @@
     "time": 6111,
     "timeDay": 6569,
     "timeWeek": 6425,
-    "timeMonth": 6515,
+    "timeMonth": 6498,
     "timeYear": 6111,
     "dailyMinutesDown": {}
   },
@@ -85,7 +87,7 @@
     "time": 1917,
     "timeDay": 6144,
     "timeWeek": 2360,
-    "timeMonth": 2104,
+    "timeMonth": 2097,
     "timeYear": 1917,
     "dailyMinutesDown": {}
   },
@@ -103,7 +105,7 @@
     "time": 2223,
     "timeDay": 2597,
     "timeWeek": 2673,
-    "timeMonth": 2486,
+    "timeMonth": 2539,
     "timeYear": 2223,
     "dailyMinutesDown": {}
   },
@@ -121,7 +123,7 @@
     "time": 2295,
     "timeDay": 1858,
     "timeWeek": 2254,
-    "timeMonth": 2240,
+    "timeMonth": 2248,
     "timeYear": 2295,
     "dailyMinutesDown": {}
   },
@@ -139,7 +141,7 @@
     "time": 1465,
     "timeDay": 1313,
     "timeWeek": 1364,
-    "timeMonth": 1487,
+    "timeMonth": 1467,
     "timeYear": 1465,
     "dailyMinutesDown": {}
   },
@@ -157,7 +159,7 @@
     "time": 2802,
     "timeDay": 1096,
     "timeWeek": 3372,
-    "timeMonth": 3143,
+    "timeMonth": 3154,
     "timeYear": 2802,
     "dailyMinutesDown": {}
   },
@@ -175,7 +177,7 @@
     "time": 1800,
     "timeDay": 1518,
     "timeWeek": 1644,
-    "timeMonth": 1650,
+    "timeMonth": 1646,
     "timeYear": 1800,
     "dailyMinutesDown": {}
   },
@@ -193,7 +195,7 @@
     "time": 4117,
     "timeDay": 4508,
     "timeWeek": 4603,
-    "timeMonth": 4494,
+    "timeMonth": 4546,
     "timeYear": 4117,
     "dailyMinutesDown": {
       "2023-07-10": 31,
@@ -214,7 +216,7 @@
     "time": 1110,
     "timeDay": 724,
     "timeWeek": 898,
-    "timeMonth": 1190,
+    "timeMonth": 1197,
     "timeYear": 1110,
     "dailyMinutesDown": {
       "2023-06-26": 157
@@ -234,7 +236,7 @@
     "time": 338,
     "timeDay": 240,
     "timeWeek": 316,
-    "timeMonth": 341,
+    "timeMonth": 338,
     "timeYear": 338,
     "dailyMinutesDown": {}
   },
@@ -252,7 +254,7 @@
     "time": 767,
     "timeDay": 568,
     "timeWeek": 645,
-    "timeMonth": 838,
+    "timeMonth": 841,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2023-06-26": 132
@@ -282,15 +284,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.benz-hauswartungen.ch.ico",
     "slug": "benz-hauswartungen",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 2358,
     "timeDay": 1573,
     "timeWeek": 1606,
-    "timeMonth": 2812,
+    "timeMonth": 2838,
     "timeYear": 2358,
     "dailyMinutesDown": {
       "2023-06-26": 155
@@ -310,7 +312,7 @@
     "time": 999,
     "timeDay": 705,
     "timeWeek": 804,
-    "timeMonth": 1077,
+    "timeMonth": 1084,
     "timeYear": 999,
     "dailyMinutesDown": {
       "2023-07-07": 31,
@@ -331,7 +333,7 @@
     "time": 1380,
     "timeDay": 1083,
     "timeWeek": 1112,
-    "timeMonth": 1520,
+    "timeMonth": 1531,
     "timeYear": 1380,
     "dailyMinutesDown": {
       "2023-07-07": 30,
@@ -352,7 +354,7 @@
     "time": 1767,
     "timeDay": 1240,
     "timeWeek": 1245,
-    "timeMonth": 2032,
+    "timeMonth": 2054,
     "timeYear": 1767,
     "dailyMinutesDown": {
       "2023-07-07": 30,
@@ -373,7 +375,7 @@
     "time": 1366,
     "timeDay": 715,
     "timeWeek": 853,
-    "timeMonth": 1554,
+    "timeMonth": 1570,
     "timeYear": 1366,
     "dailyMinutesDown": {
       "2023-07-07": 30,
@@ -386,11 +388,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.compasso.ch.ico",
     "slug": "compasso",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 1560,
     "timeDay": 601,
     "timeWeek": 1861,
@@ -406,15 +408,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cp-helmets.com.ico",
     "slug": "cp-helmets",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 1049,
     "timeDay": 761,
     "timeWeek": 863,
-    "timeMonth": 1105,
+    "timeMonth": 1109,
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2023-07-07": 29,
@@ -435,7 +437,7 @@
     "time": 1213,
     "timeDay": 922,
     "timeWeek": 1095,
-    "timeMonth": 1252,
+    "timeMonth": 1255,
     "timeYear": 1213,
     "dailyMinutesDown": {
       "2023-06-26": 102
@@ -447,15 +449,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ecoreal.ch.ico",
     "slug": "ecoreal",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.93%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 1175,
     "timeDay": 4553,
     "timeWeek": 1515,
-    "timeMonth": 1259,
+    "timeMonth": 1265,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2023-06-26": 469
@@ -475,7 +477,7 @@
     "time": 1857,
     "timeDay": 1109,
     "timeWeek": 1143,
-    "timeMonth": 2239,
+    "timeMonth": 2270,
     "timeYear": 1857,
     "dailyMinutesDown": {
       "2023-07-07": 29,
@@ -514,7 +516,7 @@
     "time": 2122,
     "timeDay": 1233,
     "timeWeek": 1497,
-    "timeMonth": 2462,
+    "timeMonth": 2489,
     "timeYear": 2122,
     "dailyMinutesDown": {
       "2023-07-07": 28,
@@ -556,7 +558,7 @@
     "time": 1068,
     "timeDay": 617,
     "timeWeek": 722,
-    "timeMonth": 1245,
+    "timeMonth": 1258,
     "timeYear": 1068,
     "dailyMinutesDown": {
       "2023-06-26": 165
@@ -568,15 +570,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kammerchor-zo.ch.ico",
     "slug": "kammerchor-zo",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 1420,
     "timeDay": 892,
     "timeWeek": 1044,
-    "timeMonth": 1591,
+    "timeMonth": 1606,
     "timeYear": 1420,
     "dailyMinutesDown": {
       "2023-07-07": 27,
@@ -597,7 +599,7 @@
     "time": 1075,
     "timeDay": 992,
     "timeWeek": 956,
-    "timeMonth": 1188,
+    "timeMonth": 1201,
     "timeYear": 1075,
     "dailyMinutesDown": {
       "2023-06-26": 164
@@ -617,7 +619,7 @@
     "time": 1156,
     "timeDay": 827,
     "timeWeek": 990,
-    "timeMonth": 1193,
+    "timeMonth": 1199,
     "timeYear": 1156,
     "dailyMinutesDown": {
       "2023-07-07": 27,
@@ -630,15 +632,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lsbag.ch.ico",
     "slug": "lsb",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 1193,
     "timeDay": 5116,
     "timeWeek": 1492,
-    "timeMonth": 1285,
+    "timeMonth": 1286,
     "timeYear": 1193,
     "dailyMinutesDown": {
       "2023-06-26": 103
@@ -658,7 +660,7 @@
     "time": 2216,
     "timeDay": 1547,
     "timeWeek": 1620,
-    "timeMonth": 2463,
+    "timeMonth": 2474,
     "timeYear": 2216,
     "dailyMinutesDown": {
       "2023-06-26": 163
@@ -678,7 +680,7 @@
     "time": 1127,
     "timeDay": 767,
     "timeWeek": 878,
-    "timeMonth": 1152,
+    "timeMonth": 1158,
     "timeYear": 1127,
     "dailyMinutesDown": {
       "2023-06-26": 133
@@ -690,15 +692,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.peyer-marking.ch.ico",
     "slug": "peyer-marking",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.71%",
+    "uptimeYear": "99.72%",
     "time": 1376,
     "timeDay": 750,
     "timeWeek": 957,
-    "timeMonth": 1585,
+    "timeMonth": 1602,
     "timeYear": 1376,
     "dailyMinutesDown": {
       "2023-07-07": 26,
@@ -719,7 +721,7 @@
     "time": 1456,
     "timeDay": 867,
     "timeWeek": 1005,
-    "timeMonth": 1720,
+    "timeMonth": 1741,
     "timeYear": 1456,
     "dailyMinutesDown": {
       "2023-07-07": 26,
@@ -740,7 +742,7 @@
     "time": 929,
     "timeDay": 942,
     "timeWeek": 892,
-    "timeMonth": 1017,
+    "timeMonth": 1023,
     "timeYear": 929,
     "dailyMinutesDown": {
       "2023-07-07": 26,
@@ -761,7 +763,7 @@
     "time": 1800,
     "timeDay": 1306,
     "timeWeek": 1399,
-    "timeMonth": 1922,
+    "timeMonth": 1940,
     "timeYear": 1800,
     "dailyMinutesDown": {
       "2023-06-26": 91
@@ -773,15 +775,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.schartenfels-immobilien.ch.ico",
     "slug": "schartenfels-immobilien",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.94%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 1552,
     "timeDay": 1151,
     "timeWeek": 1311,
-    "timeMonth": 1680,
+    "timeMonth": 1687,
     "timeYear": 1552,
     "dailyMinutesDown": {
       "2023-06-26": 464
@@ -801,7 +803,7 @@
     "time": 1031,
     "timeDay": 676,
     "timeWeek": 819,
-    "timeMonth": 1129,
+    "timeMonth": 1137,
     "timeYear": 1031,
     "dailyMinutesDown": {
       "2023-06-26": 91
@@ -813,15 +815,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.taegi.ch.ico",
     "slug": "taegi",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.77%",
     "time": 2407,
     "timeDay": 2743,
     "timeWeek": 2191,
-    "timeMonth": 2602,
+    "timeMonth": 2618,
     "timeYear": 2407,
     "dailyMinutesDown": {
       "2023-07-15": 16,
@@ -842,7 +844,7 @@
     "time": 2532,
     "timeDay": 25832,
     "timeWeek": 5250,
-    "timeMonth": 3100,
+    "timeMonth": 3152,
     "timeYear": 2532,
     "dailyMinutesDown": {
       "2023-06-26": 90
@@ -862,7 +864,7 @@
     "time": 2340,
     "timeDay": 987,
     "timeWeek": 2272,
-    "timeMonth": 2612,
+    "timeMonth": 2660,
     "timeYear": 2340,
     "dailyMinutesDown": {
       "2023-06-26": 148
@@ -882,7 +884,7 @@
     "time": 703,
     "timeDay": 675,
     "timeWeek": 703,
-    "timeMonth": 716,
+    "timeMonth": 717,
     "timeYear": 703,
     "dailyMinutesDown": {}
   },
@@ -900,7 +902,7 @@
     "time": 1426,
     "timeDay": 1007,
     "timeWeek": 1207,
-    "timeMonth": 1561,
+    "timeMonth": 1569,
     "timeYear": 1426,
     "dailyMinutesDown": {
       "2023-07-15": 16,
@@ -939,7 +941,7 @@
     "time": 1383,
     "timeDay": 939,
     "timeWeek": 1159,
-    "timeMonth": 1519,
+    "timeMonth": 1529,
     "timeYear": 1383,
     "dailyMinutesDown": {
       "2023-06-26": 128
