@@ -1,7 +1,7 @@
 url: https://tx.group
-status: down
-code: 503
-responseTime: 20544
-lastUpdated: 2023-07-21T08:25:49.546Z
+status: up
+code: 200
+responseTime: 1220
+lastUpdated: 2023-07-21T08:37:56.231Z
 startTime: Sat Jun 03 2023 19:31:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
