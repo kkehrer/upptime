@@ -42,7 +42,7 @@
     "slug": "cavedelorge",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "83.70%",
+    "uptimeDay": "91.72%",
     "uptimeWeek": "97.11%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.60%",
@@ -293,7 +293,7 @@
     "time": 2276,
     "timeDay": 1217,
     "timeWeek": 1496,
-    "timeMonth": 2534,
+    "timeMonth": 2295,
     "timeYear": 2276,
     "dailyMinutesDown": {
       "2023-06-26": 155
@@ -858,19 +858,19 @@
     "url": "https://proxy-prod.solutions.webfg.ch/mdp-auth/tamedia/v1/solid/quotes/tamedia/?listID=1117825-4-1",
     "icon": "https://icons.duckduckgo.com/ip3/proxy-prod.solutions.webfg.ch.ico",
     "slug": "t-xgroup-charts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 700,
-    "timeWeek": 724,
-    "timeMonth": 724,
-    "timeYear": 706,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "91.98%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.82%",
+    "time": 714,
+    "timeDay": 819,
+    "timeWeek": 766,
+    "timeMonth": 735,
+    "timeYear": 714,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 115
     }
   },
   {
