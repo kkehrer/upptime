@@ -169,19 +169,19 @@
     "url": "https://tan-dem.co",
     "icon": "https://icons.duckduckgo.com/ip3/tan-dem.co.ico",
     "slug": "tan-dem",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1783,
-    "timeDay": 1925,
-    "timeWeek": 1651,
-    "timeMonth": 1641,
-    "timeYear": 1783,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 1778,
+    "timeDay": 1698,
+    "timeWeek": 1628,
+    "timeMonth": 1636,
+    "timeYear": 1778,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 22
     }
   },
   {
