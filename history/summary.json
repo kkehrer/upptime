@@ -4,19 +4,19 @@
     "url": "https://www.bartsch-consulting.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.bartsch-consulting.ch.ico",
     "slug": "bartsch-consulting",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1847,
-    "timeDay": 3185,
-    "timeWeek": 2435,
-    "timeMonth": 2038,
-    "timeYear": 1847,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1853,
+    "timeDay": 2735,
+    "timeWeek": 2417,
+    "timeMonth": 2046,
+    "timeYear": 1853,
     "dailyMinutesDown": {
-      "2023-08-07": 2
+      "2023-08-07": 17
     }
   },
   {
