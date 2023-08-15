@@ -476,11 +476,11 @@
     "url": "https://www.fato-reinigungen.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.fato-reinigungen.ch.ico",
     "slug": "fato-reinigungen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.82%",
     "time": 1706,
     "timeDay": 1436,
@@ -488,6 +488,8 @@
     "timeMonth": 1395,
     "timeYear": 1706,
     "dailyMinutesDown": {
+      "2023-08-15": 1,
+      "2023-08-14": 3,
       "2023-07-07": 29,
       "2023-06-26": 154
     }
@@ -515,11 +517,11 @@
     "url": "https://www.igp-company-challenge.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.igp-company-challenge.com.ico",
     "slug": "igp-company-challenge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.82%",
     "time": 1951,
     "timeDay": 1410,
@@ -527,6 +529,8 @@
     "timeMonth": 1598,
     "timeYear": 1951,
     "dailyMinutesDown": {
+      "2023-08-15": 1,
+      "2023-08-14": 3,
       "2023-07-07": 28,
       "2023-06-26": 153
     }
@@ -536,11 +540,11 @@
     "url": "https://www.iwo.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.iwo.ch.ico",
     "slug": "iwo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.84%",
     "time": 890,
     "timeDay": 811,
@@ -548,6 +552,8 @@
     "timeMonth": 1035,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2023-08-15": 1,
+      "2023-08-14": 2,
       "2023-07-07": 28,
       "2023-06-26": 136
     }
@@ -577,11 +583,11 @@
     "url": "https://www.kammerchor-zo.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.kammerchor-zo.ch.ico",
     "slug": "kammerchor-zo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.84%",
     "time": 1347,
     "timeDay": 964,
@@ -589,6 +595,8 @@
     "timeMonth": 1194,
     "timeYear": 1347,
     "dailyMinutesDown": {
+      "2023-08-15": 1,
+      "2023-08-14": 1,
       "2023-07-07": 27,
       "2023-06-26": 133
     }
@@ -598,10 +606,10 @@
     "url": "https://www.kapag.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kapag.com.ico",
     "slug": "kapag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1040,
@@ -610,6 +618,8 @@
     "timeMonth": 986,
     "timeYear": 1040,
     "dailyMinutesDown": {
+      "2023-08-15": 1,
+      "2023-08-14": 1,
       "2023-06-26": 164
     }
   },
@@ -700,10 +710,10 @@
     "url": "https://www.preli.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.preli.ch.ico",
     "slug": "preli",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 1408,
@@ -712,6 +722,7 @@
     "timeMonth": 1290,
     "timeYear": 1408,
     "dailyMinutesDown": {
+      "2023-08-15": 1,
       "2023-07-07": 26,
       "2023-06-26": 151
     }
