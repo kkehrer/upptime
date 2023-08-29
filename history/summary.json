@@ -44,12 +44,12 @@
     "slug": "cavedelorge",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "70.72%",
+    "uptimeDay": "71.85%",
     "uptimeWeek": "90.31%",
     "uptimeMonth": "97.45%",
     "uptimeYear": "98.88%",
     "time": 9035,
-    "timeDay": 9441,
+    "timeDay": 9634,
     "timeWeek": 12986,
     "timeMonth": 11425,
     "timeYear": 9035,
@@ -280,18 +280,20 @@
     "url": "https://amosa.net",
     "icon": "https://icons.duckduckgo.com/ip3/amosa.net.ico",
     "slug": "amosa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1009,
     "timeDay": 720,
     "timeWeek": 804,
     "timeMonth": 1028,
     "timeYear": 1009,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-29": 2
+    }
   },
   {
     "name": "Benz-Hauswartungen",
@@ -506,10 +508,10 @@
     "url": "https://www.gruenden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gruenden.ch.ico",
     "slug": "gruenden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1104,
@@ -517,7 +519,9 @@
     "timeWeek": 1012,
     "timeMonth": 1154,
     "timeYear": 1104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-29": 1
+    }
   },
   {
     "name": "IGP-Company-Challenge",
