@@ -85,6 +85,8 @@ sites:
     url: https://www.schmidreisen.ch
   - name: Tägi
     url: https://www.taegi.ch
+  - name: Tägi-Events
+    url: https://events.taegi.ch
   - name: Taormina
     url: https://www.taormina-law.ch
   - name: TXgroup
