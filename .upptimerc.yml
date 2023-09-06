@@ -55,8 +55,6 @@ sites:
     url: https://www.fato-reinigungen.ch
   - name: Gruenden
     url: https://www.gruenden.ch/
-  - name: IGP-Company-Challenge
-    url: https://www.igp-company-challenge.com
   - name: iwo
     url: https://www.iwo.ch
   - name: iwo-Wohnportal
