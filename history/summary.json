@@ -28,7 +28,7 @@
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
     "time": 3600,
     "timeDay": 3606,
@@ -329,9 +329,9 @@
     "slug": "blechworks",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 995,
     "timeDay": 999,
@@ -339,7 +339,6 @@
     "timeMonth": 937,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2023-10-03": 9,
       "2023-07-07": 31,
       "2023-06-26": 141
     }
@@ -351,9 +350,9 @@
     "slug": "casanatale",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1368,
     "timeDay": 1294,
@@ -361,7 +360,6 @@
     "timeMonth": 1231,
     "timeYear": 1368,
     "dailyMinutesDown": {
-      "2023-10-03": 8,
       "2023-07-07": 30,
       "2023-06-26": 154
     }
@@ -871,10 +869,10 @@
     "url": "https://proxy-prod.solutions.webfg.ch/mdp-auth/tamedia/v1/solid/quotes/tamedia/?listID=1117825-4-1",
     "icon": "https://icons.duckduckgo.com/ip3/proxy-prod.solutions.webfg.ch.ico",
     "slug": "t-xgroup-charts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 761,
@@ -883,6 +881,7 @@
     "timeMonth": 724,
     "timeYear": 761,
     "dailyMinutesDown": {
+      "2023-10-03": 1,
       "2023-08-09": 48,
       "2023-07-24": 115
     }
@@ -935,12 +934,12 @@
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1775,
     "timeDay": 1034,
     "timeWeek": 1058,
-    "timeMonth": 3296,
+    "timeMonth": 1849,
     "timeYear": 1775,
     "dailyMinutesDown": {
       "2023-09-03": 21,
