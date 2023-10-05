@@ -209,10 +209,10 @@
     "url": "https://www.wellenreiter.consulting",
     "icon": "https://icons.duckduckgo.com/ip3/www.wellenreiter.consulting.ico",
     "slug": "wellenreiter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 4218,
@@ -221,6 +221,7 @@
     "timeMonth": 4234,
     "timeYear": 4218,
     "dailyMinutesDown": {
+      "2023-10-05": 1,
       "2023-07-26": 22,
       "2023-07-10": 31,
       "2023-07-06": 22
