@@ -252,18 +252,20 @@
     "url": "https://www.al-pianton.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.al-pianton.ch.ico",
     "slug": "al-pianton",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 396,
-    "timeWeek": 385,
-    "timeMonth": 392,
-    "timeYear": 367,
-    "dailyMinutesDown": {}
+    "time": 365,
+    "timeDay": 372,
+    "timeWeek": 371,
+    "timeMonth": 386,
+    "timeYear": 365,
+    "dailyMinutesDown": {
+      "2023-10-16": 1
+    }
   },
   {
     "name": "Ammann-Ing",
