@@ -171,10 +171,10 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3159,
@@ -182,7 +182,9 @@
     "timeWeek": 3192,
     "timeMonth": 3330,
     "timeYear": 3159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-18": 1
+    }
   },
   {
     "name": "TanDem",
