@@ -915,19 +915,19 @@
     "url": "https://www.wirtschaftsraum-zuerich.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wirtschaftsraum-zuerich.ch.ico",
     "slug": "wirtschaftsraum-zh",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3043,
-    "timeDay": 2521,
-    "timeWeek": 2398,
-    "timeMonth": 2729,
-    "timeYear": 3043,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 3045,
+    "timeDay": 2848,
+    "timeWeek": 2496,
+    "timeMonth": 2744,
+    "timeYear": 3045,
     "dailyMinutesDown": {
-      "2023-10-25": 1
+      "2023-10-25": 10
     }
   },
   {
