@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bartsch-consulting.ch.ico",
     "slug": "bartsch-consulting",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1928,
     "timeDay": 3964,
     "timeWeek": 1869,
     "timeMonth": 1670,
     "timeYear": 1928,
     "dailyMinutesDown": {
-      "2023-10-25": 1,
+      "2023-10-25": 20,
       "2023-08-07": 17
     }
   },
@@ -916,10 +916,10 @@
     "url": "https://www.wirtschaftsraum-zuerich.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wirtschaftsraum-zuerich.ch.ico",
     "slug": "wirtschaftsraum-zh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 3105,
@@ -928,7 +928,7 @@
     "timeMonth": 2998,
     "timeYear": 3105,
     "dailyMinutesDown": {
-      "2023-10-25": 18
+      "2023-10-25": 19
     }
   },
   {
