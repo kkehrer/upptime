@@ -332,10 +332,10 @@
     "url": "https://www.blechworks.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.blechworks.ch.ico",
     "slug": "blechworks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 991,
@@ -344,6 +344,7 @@
     "timeMonth": 957,
     "timeYear": 991,
     "dailyMinutesDown": {
+      "2023-10-29": 1,
       "2023-07-07": 31,
       "2023-06-26": 141
     }
@@ -418,9 +419,9 @@
     "slug": "compasso",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 1391,
     "timeDay": 735,
@@ -428,7 +429,6 @@
     "timeMonth": 1114,
     "timeYear": 1391,
     "dailyMinutesDown": {
-      "2023-10-29": 12,
       "2023-09-06": 497,
       "2023-09-05": 540,
       "2023-06-26": 167
@@ -566,9 +566,9 @@
     "slug": "iwo-wohnportal",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 913,
     "timeDay": 1077,
@@ -576,7 +576,6 @@
     "timeMonth": 874,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2023-10-29": 11,
       "2023-06-26": 165
     }
   },
@@ -671,18 +670,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oppboga.com.ico",
     "slug": "oppboga",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.94%",
     "time": 1009,
     "timeDay": 997,
     "timeWeek": 1011,
     "timeMonth": 962,
     "timeYear": 1009,
     "dailyMinutesDown": {
-      "2023-10-29": 10,
       "2023-06-26": 133
     }
   },
