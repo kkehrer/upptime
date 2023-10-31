@@ -11,6 +11,8 @@ sites:
     url: https://cavedelorge.ch
   - name: Goldhahn
     url: https://goldhahn.swiss
+  - name: Ine.rave
+    url: https://www.ine-rave.com
   - name: Keey
     url: https://keey.ch
   - name: PixelPirat
@@ -43,8 +45,6 @@ sites:
     url: https://www.cevest.ch
   - name: Christen-Metallbau
     url: https://www.christen-metallbau.ch
-  - name: Compasso
-    url: https://www.compasso.ch
   - name: CP-Helmets
     url: https://www.cp-helmets.com
   - name: Dianit
@@ -53,6 +53,8 @@ sites:
     url: https://www.ecoreal.ch
   - name: Fato-Reinigungen
     url: https://www.fato-reinigungen.ch
+  - name: Freiley
+    url: https://www.freiley.ch
   - name: Gruenden
     url: https://www.gruenden.ch/
   - name: iwo
