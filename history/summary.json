@@ -313,10 +313,10 @@
     "url": "https://amosa.net",
     "icon": "https://icons.duckduckgo.com/ip3/amosa.net.ico",
     "slug": "amosa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 947,
@@ -324,7 +324,9 @@
     "timeWeek": 1050,
     "timeMonth": 959,
     "timeYear": 947,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-08": 1
+    }
   },
   {
     "name": "Benz-Hauswartungen",
@@ -504,29 +506,27 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.freiley.ch.ico",
     "slug": "freiley",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 740,
     "timeDay": 784,
     "timeWeek": 711,
     "timeMonth": 740,
     "timeYear": 740,
-    "dailyMinutesDown": {
-      "2023-11-08": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gruenden",
     "url": "https://www.gruenden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gruenden.ch.ico",
     "slug": "gruenden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1148,
@@ -534,7 +534,9 @@
     "timeWeek": 1478,
     "timeMonth": 1264,
     "timeYear": 1148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-08": 1
+    }
   },
   {
     "name": "iwo",
