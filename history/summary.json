@@ -503,19 +503,19 @@
     "url": "https://www.freiley.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.freiley.ch.ico",
     "slug": "freiley",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 718,
-    "timeDay": 792,
-    "timeWeek": 664,
-    "timeMonth": 718,
-    "timeYear": 718,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 732,
+    "timeDay": 831,
+    "timeWeek": 690,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {
-      "2023-11-08": 3
+      "2023-11-08": 10
     }
   },
   {
@@ -523,19 +523,19 @@
     "url": "https://www.gruenden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gruenden.ch.ico",
     "slug": "gruenden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1143,
-    "timeDay": 1439,
-    "timeWeek": 1418,
-    "timeMonth": 1252,
-    "timeYear": 1143,
+    "time": 1145,
+    "timeDay": 1486,
+    "timeWeek": 1432,
+    "timeMonth": 1260,
+    "timeYear": 1145,
     "dailyMinutesDown": {
-      "2023-11-08": 1
+      "2023-11-08": 8
     }
   },
   {
