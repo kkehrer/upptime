@@ -6,9 +6,9 @@
     "slug": "bartsch-consulting",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1906,
     "timeDay": 5035,
@@ -16,7 +16,6 @@
     "timeMonth": 1647,
     "timeYear": 1906,
     "dailyMinutesDown": {
-      "2023-11-08": 9,
       "2023-10-25": 29,
       "2023-08-07": 17
     }
@@ -316,18 +315,16 @@
     "slug": "amosa",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 943,
     "timeDay": 857,
     "timeWeek": 970,
     "timeMonth": 946,
     "timeYear": 943,
-    "dailyMinutesDown": {
-      "2023-11-08": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Benz-Hauswartungen",
@@ -507,19 +504,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.freiley.ch.ico",
     "slug": "freiley",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 705,
     "timeDay": 693,
     "timeWeek": 663,
     "timeMonth": 705,
     "timeYear": 705,
-    "dailyMinutesDown": {
-      "2023-11-08": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gruenden",
@@ -922,19 +917,19 @@
     "url": "https://www.wirtschaftsraum-zuerich.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wirtschaftsraum-zuerich.ch.ico",
     "slug": "wirtschaftsraum-zh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 3083,
-    "timeDay": 3254,
-    "timeWeek": 2823,
-    "timeMonth": 2903,
-    "timeYear": 3083,
+    "time": 3088,
+    "timeDay": 3528,
+    "timeWeek": 2945,
+    "timeMonth": 2927,
+    "timeYear": 3088,
     "dailyMinutesDown": {
-      "2023-11-08": 1,
+      "2023-11-08": 9,
       "2023-10-25": 18
     }
   },
