@@ -274,18 +274,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.al-pianton.ch.ico",
     "slug": "al-pianton",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 369,
-    "timeDay": 334,
+    "timeDay": 356,
     "timeWeek": 376,
     "timeMonth": 377,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2023-11-08": 13,
       "2023-10-16": 33
     }
   },
@@ -404,7 +403,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
     "time": 1512,
-    "timeDay": 1339,
+    "timeDay": 1510,
     "timeWeek": 1697,
     "timeMonth": 1457,
     "timeYear": 1512,
@@ -504,28 +503,30 @@
     "url": "https://www.freiley.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.freiley.ch.ico",
     "slug": "freiley",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 718,
     "timeDay": 792,
     "timeWeek": 664,
     "timeMonth": 718,
     "timeYear": 718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-08": 3
+    }
   },
   {
     "name": "Gruenden",
     "url": "https://www.gruenden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gruenden.ch.ico",
     "slug": "gruenden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1143,
@@ -533,7 +534,9 @@
     "timeWeek": 1418,
     "timeMonth": 1252,
     "timeYear": 1143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-08": 1
+    }
   },
   {
     "name": "iwo",
