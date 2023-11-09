@@ -315,18 +315,16 @@
     "slug": "amosa",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 961,
     "timeDay": 1686,
     "timeWeek": 1252,
     "timeMonth": 1013,
     "timeYear": 961,
-    "dailyMinutesDown": {
-      "2023-11-08": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Benz-Hauswartungen",
@@ -525,18 +523,16 @@
     "slug": "gruenden",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1173,
     "timeDay": 2548,
     "timeWeek": 1824,
     "timeMonth": 1359,
     "timeYear": 1173,
-    "dailyMinutesDown": {
-      "2023-11-08": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "iwo",
