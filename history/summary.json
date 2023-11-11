@@ -773,9 +773,9 @@
     "slug": "schmid-reisen",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 960,
     "timeDay": 1057,
@@ -783,7 +783,6 @@
     "timeMonth": 993,
     "timeYear": 960,
     "dailyMinutesDown": {
-      "2023-11-10": 12,
       "2023-06-26": 91
     }
   },
