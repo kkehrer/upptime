@@ -1,7 +1,7 @@
 url: https://amosa.net
-status: up
-code: 200
-responseTime: 757
-lastUpdated: 2023-11-13T23:04:56.537Z
+status: down
+code: 500
+responseTime: 820
+lastUpdated: 2023-11-14T08:29:08.039Z
 startTime: 2023-06-28T07:19:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
