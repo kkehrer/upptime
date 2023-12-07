@@ -1,7 +1,7 @@
 url: https://tx.group
-status: up
-code: 200
-responseTime: 1327
-lastUpdated: 2023-12-06T23:06:21.437Z
+status: down
+code: 500
+responseTime: 189
+lastUpdated: 2023-12-07T20:31:03.609Z
 startTime: 2023-06-03T19:31:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
