@@ -91,8 +91,6 @@ sites:
     url: https://proxy-prod.solutions.webfg.ch/mdp-auth/tamedia/v1/solid/quotes/tamedia/?listID=1117825-4-1
   - name: UniqueReal
     url: https://www.uniquereal.ch
-  - name: Wirtschaftsraum-ZH
-    url: https://www.wirtschaftsraum-zuerich.ch/
   - name: WSchneider
     url: https://www.wschneider.com
 
