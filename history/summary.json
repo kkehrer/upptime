@@ -39,7 +39,7 @@
     "timeMonth": 158,
     "timeYear": 2803,
     "dailyMinutesDown": {
-      "2024-01-08": 1328,
+      "2024-01-08": 1343,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
@@ -326,7 +326,7 @@
     "uptimeYear": "99.61%",
     "time": 1875,
     "timeDay": 1316,
-    "timeWeek": 4178,
+    "timeWeek": 4236,
     "timeMonth": 3186,
     "timeYear": 1875,
     "dailyMinutesDown": {
@@ -385,11 +385,11 @@
     "url": "https://amosa.net",
     "icon": "https://icons.duckduckgo.com/ip3/amosa.net.ico",
     "slug": "amosa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 984,
     "timeDay": 1234,
@@ -397,6 +397,7 @@
     "timeMonth": 985,
     "timeYear": 984,
     "dailyMinutesDown": {
+      "2024-01-08": 2,
       "2023-12-07": 15,
       "2023-11-14": 36
     }
@@ -591,11 +592,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.freiley.ch.ico",
     "slug": "freiley",
     "status": "up",
-    "uptime": "75.61%",
+    "uptime": "75.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.61%",
+    "uptimeYear": "75.62%",
     "time": 1146,
     "timeDay": 361,
     "timeWeek": 322,
@@ -629,9 +630,9 @@
     "slug": "gruenden",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1214,
     "timeDay": 989,
@@ -639,7 +640,7 @@
     "timeMonth": 1140,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2024-01-08": 1,
+      "2024-01-08": 16,
       "2023-12-07": 23
     }
   },
