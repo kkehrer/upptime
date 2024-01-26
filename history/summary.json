@@ -39,7 +39,7 @@
     "timeMonth": 175,
     "timeYear": 2628,
     "dailyMinutesDown": {
-      "2024-01-26": 379,
+      "2024-01-26": 389,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
@@ -239,19 +239,19 @@
     "url": "https://www.sakartwelo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sakartwelo.com.ico",
     "slug": "sakartwelo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2001,
-    "timeDay": 1302,
-    "timeWeek": 1815,
-    "timeMonth": 1819,
-    "timeYear": 2001,
+    "time": 2002,
+    "timeDay": 1800,
+    "timeWeek": 1863,
+    "timeMonth": 1833,
+    "timeYear": 2002,
     "dailyMinutesDown": {
-      "2024-01-26": 1
+      "2024-01-26": 10
     }
   },
   {
