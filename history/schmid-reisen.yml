@@ -1,7 +1,7 @@
 url: https://www.schmidreisen.ch
-status: up
-code: 200
-responseTime: 2147
-lastUpdated: 2024-03-11T23:06:14.472Z
+status: down
+code: 503
+responseTime: 709
+lastUpdated: 2024-03-12T23:05:56.300Z
 startTime: 2023-06-04T15:54:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
