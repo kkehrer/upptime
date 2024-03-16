@@ -1,7 +1,7 @@
 url: https://tools.eurolandir.com/tools/ticker/html/?companycode=CH-TAMN&v=static&lang=en-GB
-status: down
-code: 503
-responseTime: 567
-lastUpdated: 2024-03-16T19:29:47.037Z
+status: up
+code: 200
+responseTime: 388
+lastUpdated: 2024-03-16T19:38:22.677Z
 startTime: 2024-02-23T15:41:52.821Z
 generator: Upptime <https://github.com/upptime/upptime>
