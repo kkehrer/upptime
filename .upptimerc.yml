@@ -83,8 +83,6 @@ sites:
     url: https://www.taormina-law.ch
   - name: TXgroup
     url: https://tx.group
-  - name: TXgroup-Charts
-    url: https://proxy-prod.solutions.webfg.ch/mdp-auth/tamedia/v1/solid/quotes/tamedia/?listID=1117825-4-1
   - name: TXgroup-Ticker
     url: https://tools.eurolandir.com/tools/ticker/html/?companycode=CH-TAMN&v=static&lang=en-GB
   - name: TXgroup-SharePriceOverview
