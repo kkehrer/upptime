@@ -93,8 +93,6 @@ sites:
     url: https://tools.eurolandir.com/tools/shareseries/?companycode=CH-TAMN&lang=en-GB
   - name: UniqueReal
     url: https://www.uniquereal.ch
-  - name: WSchneider
-    url: https://www.wschneider.com
 
 assignees:
   - kkehrer
