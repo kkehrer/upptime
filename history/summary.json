@@ -39,7 +39,8 @@
     "timeMonth": 109,
     "timeYear": 1763,
     "dailyMinutesDown": {
-      "2024-06-04": 1437,
+      "2024-06-05": 23,
+      "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -857,9 +858,9 @@
     "slug": "gruenden",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1175,
     "timeDay": 913,
@@ -867,7 +868,6 @@
     "timeMonth": 1017,
     "timeYear": 1175,
     "dailyMinutesDown": {
-      "2024-06-04": 8,
       "2024-04-16": 18,
       "2024-01-08": 72,
       "2023-12-07": 23
