@@ -17,14 +17,10 @@ sites:
     url: https://keey.ch
   - name: PixelPirat
     url: https://pixelpirat.ch
-  - name: Sakartwelo
-    url: https://www.sakartwelo.com
   - name: Seilers-Werbeblog
     url: https://www.seilers-werbeblog.ch
   - name: StudioPM
     url: https://studiopm.ch
-  - name: TanDem
-    url: https://tan-dem.co
   - name: Wellenreiter
     url: https://www.wellenreiter.consulting
   - name: AlegraCapital
@@ -69,8 +65,8 @@ sites:
     url: https://www.peyer-marking.ch
   - name: RMC
     url: https://www.rmc-consulting.ch
-  - name: Scharlachrot
-    url: https://scharlachrot.ch
+  - name: Scarlet-Studio
+    url: https://scarlet.studio
   - name: Schartenfels-Immobilien
     url: https://www.schartenfels-immobilien.ch
   - name: SchmidReisen
