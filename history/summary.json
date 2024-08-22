@@ -31,14 +31,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.97%",
+    "uptimeYear": "21.95%",
     "time": 1525,
     "timeDay": 140,
     "timeWeek": 123,
     "timeMonth": 119,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2024-08-22": 25,
+      "2024-08-22": 119,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -430,7 +430,7 @@
     "timeMonth": 533,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-08-22": 25,
+      "2024-08-22": 119,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -522,10 +522,10 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3254,
@@ -533,7 +533,9 @@
     "timeWeek": 3369,
     "timeMonth": 3599,
     "timeYear": 3329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-22": 1
+    }
   },
   {
     "name": "Wellenreiter",
