@@ -27,8 +27,6 @@ sites:
     url: https://www.wellenreiter.consulting
   - name: AlegraCapital
     url: https://www.alegracapital.com
-  - name: Al-Pianton
-    url: https://www.al-pianton.ch
   - name: Ammann-Ing
     url: https://www.ammann-ing.ch
   - name: Amosa
@@ -49,8 +47,6 @@ sites:
     url: https://www.ecoreal.ch
   - name: Fato-Reinigungen
     url: https://www.fato-reinigungen.ch
-  - name: Freiley
-    url: https://www.freiley.ch
   - name: Gruenden
     url: https://www.gruenden.ch/
   - name: iwo
