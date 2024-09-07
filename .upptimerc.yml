@@ -31,6 +31,8 @@ sites:
     url: https://www.ammann-ing.ch
   - name: Amosa
     url: https://amosa.net
+  - name: Photosphere
+    url: https://www.association-photosphere.ch
   - name: Benz-Hauswartungen
     url: https://www.benz-hauswartungen.ch
   - name: Blechworks
