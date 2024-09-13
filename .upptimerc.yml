@@ -98,7 +98,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: up.pixelpirat.ch
+  cname: up.digitalsource.ch
   # baseUrl: /your-repo-name
   name: Upptime-Tracker
   logoUrl: https://raw.githubusercontent.com/kkehrer/upptime/master/assets/upptime-icon.svg
@@ -109,7 +109,7 @@ status-website:
     - title: Status
       href: /
     - title: Web
-      href: https://pixelpirat.ch
+      href: https://digitalsource.ch
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   metaTags:
