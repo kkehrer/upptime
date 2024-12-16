@@ -1,7 +1,7 @@
 url: https://www.schartenfels-immobilien.ch
-status: up
-code: 200
-responseTime: 2937
-lastUpdated: 2024-12-15T23:06:17.731Z
+status: down
+code: 500
+responseTime: 1372
+lastUpdated: 2024-12-16T20:32:30.119Z
 startTime: 2023-06-04T15:54:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
