@@ -31,8 +31,6 @@ sites:
     url: https://amosa.net
   - name: Photosphere
     url: https://www.association-photosphere.ch
-  - name: Benz-Hauswartungen
-    url: https://www.benz-hauswartungen.ch
   - name: Blechworks
     url: https://www.blechworks.ch
   - name: Caminada
@@ -49,10 +47,6 @@ sites:
     url: https://www.fato-reinigungen.ch
   - name: Gruenden
     url: https://www.gruenden.ch/
-  - name: iwo
-    url: https://www.iwo.ch
-  - name: iwo-Wohnportal
-    url: https://www.iwo-wohnportal.ch
   - name: Kammerchor-ZO
     url: https://www.kammerchor-zo.ch
   - name: KAPAG
@@ -65,8 +59,6 @@ sites:
     url: https://www.peyer-marking.ch
   - name: Scarlet-Studio
     url: https://scarlet.studio
-  - name: Schartenfels-Immobilien
-    url: https://www.schartenfels-immobilien.ch
   - name: SchmidReisen
     url: https://www.schmidreisen.ch
   - name: Tägi
