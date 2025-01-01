@@ -7,6 +7,8 @@ sites:
     url: https://www.bartsch-consulting.ch
   - name: Cavedelorge
     url: https://cavedelorge.ch
+  - name: FelixAdvisory
+    url: https://felixadvisory.ch
   - name: Goldhahn
     url: https://goldhahn.swiss
   - name: Ine.rave
@@ -17,6 +19,8 @@ sites:
     url: https://keey.ch
   - name: PixelPirat
     url: https://pixelpirat.ch
+  - name: R2Partners
+    url: https://r2partnersag.ch
   - name: Seilers-Werbeblog
     url: https://www.seilers-werbeblog.ch
   - name: StudioPM
