@@ -55,18 +55,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/felixadvisory.ch.ico",
     "slug": "felix-advisory",
     "status": "up",
-    "uptime": "1.63%",
-    "uptimeDay": "1.63%",
-    "uptimeWeek": "1.63%",
-    "uptimeMonth": "1.63%",
-    "uptimeYear": "1.63%",
+    "uptime": "0.81%",
+    "uptimeDay": "0.81%",
+    "uptimeWeek": "0.81%",
+    "uptimeMonth": "0.81%",
+    "uptimeYear": "0.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-01": 2
+      "2025-01-01": 3
     }
   },
   {
