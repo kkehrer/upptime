@@ -73,6 +73,8 @@ sites:
     url: https://www.taormina-law.ch
   - name: TXgroup
     url: https://tx.group
+    headers:
+      User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
   - name: TXgroup-Ticker
     url: https://tools.eurolandir.com/tools/ticker/html/?companycode=CH-TAMN&v=static&lang=en-GB
   - name: TXgroup-SharePriceOverview
