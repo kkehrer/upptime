@@ -438,19 +438,19 @@
     "url": "https://www.association-photosphere.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.association-photosphere.ch.ico",
     "slug": "photosphere",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 505,
-    "timeWeek": 494,
-    "timeMonth": 885,
-    "timeYear": 684,
+    "time": 683,
+    "timeDay": 495,
+    "timeWeek": 487,
+    "timeMonth": 874,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2025-02-05": 9
+      "2025-02-05": 1
     }
   },
   {
@@ -1085,7 +1085,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tx.group.ico",
     "slug": "t-xgroup",
     "status": "down",
-    "uptime": "94.53%",
+    "uptime": "94.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1096,7 +1096,7 @@
     "timeMonth": 161,
     "timeYear": 1819,
     "dailyMinutesDown": {
-      "2025-02-05": 1073,
+      "2025-02-05": 1082,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
