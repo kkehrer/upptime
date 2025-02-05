@@ -1,7 +1,7 @@
 url: https://www.association-photosphere.ch
-status: up
-code: 200
-responseTime: 812
-lastUpdated: 2025-02-05T17:34:13.062Z
+status: down
+code: 429
+responseTime: 354
+lastUpdated: 2025-02-05T17:43:01.007Z
 startTime: 2024-09-07T07:20:37.542Z
 generator: Upptime <https://github.com/upptime/upptime>
