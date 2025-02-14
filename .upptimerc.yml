@@ -29,8 +29,6 @@ sites:
     url: https://www.wellenreiter.consulting
   - name: AlegraCapital
     url: https://www.alegracapital.com
-  - name: Ammann-Ing
-    url: https://www.ammann-ing.ch
   - name: Amosa
     url: https://amosa.net
   - name: Photosphere
@@ -53,12 +51,6 @@ sites:
     url: https://www.gruenden.ch/
   - name: Kammerchor-ZO
     url: https://www.kammerchor-zo.ch
-  - name: KAPAG
-    url: https://www.kapag.com
-  - name: LSB
-    url: https://www.lsbag.ch
-  - name: Oppboga
-    url: https://www.oppboga.com
   - name: Peyer-Marking
     url: https://www.peyer-marking.ch
   - name: Scarlet-Studio
