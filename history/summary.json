@@ -6,16 +6,17 @@
     "slug": "bartsch-consulting",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
-    "time": 1441,
+    "time": 1434,
     "timeDay": 1459,
     "timeWeek": 1080,
     "timeMonth": 1299,
     "timeYear": 1415,
     "dailyMinutesDown": {
+      "2025-05-27": 3,
       "2025-05-14": 17,
       "2025-04-30": 22,
       "2025-03-05": 22,
@@ -53,11 +54,11 @@
     "url": "https://felixadvisory.ch",
     "icon": "https://icons.duckduckgo.com/ip3/felixadvisory.ch.ico",
     "slug": "felix-advisory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 982,
     "timeDay": 1250,
@@ -65,6 +66,7 @@
     "timeMonth": 823,
     "timeYear": 982,
     "dailyMinutesDown": {
+      "2025-05-27": 2,
       "2025-01-27": 32,
       "2025-01-01": 20
     }
@@ -284,18 +286,19 @@
     "url": "https://r2partnersag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/r2partnersag.ch.ico",
     "slug": "r2-partners",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 1369,
     "timeDay": 1830,
     "timeWeek": 1336,
     "timeMonth": 1406,
     "timeYear": 1369,
     "dailyMinutesDown": {
+      "2025-05-27": 2,
       "2025-03-27": 15,
       "2025-02-24": 16
     }
@@ -443,19 +446,20 @@
     "url": "https://www.wellenreiter.consulting",
     "icon": "https://icons.duckduckgo.com/ip3/www.wellenreiter.consulting.ico",
     "slug": "wellenreiter",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.94%",
     "time": 4236,
-    "timeDay": 5078,
-    "timeWeek": 4538,
-    "timeMonth": 4622,
-    "timeYear": 4275,
+    "timeDay": 4308,
+    "timeWeek": 4438,
+    "timeMonth": 4594,
+    "timeYear": 4274,
     "dailyMinutesDown": {
-      "2025-05-26": 1,
+      "2025-05-27": 31,
+      "2025-05-26": 3,
       "2025-05-24": 15,
       "2025-05-12": 20,
       "2025-03-29": 114,
@@ -544,10 +548,10 @@
     "url": "https://amosa.net",
     "icon": "https://icons.duckduckgo.com/ip3/amosa.net.ico",
     "slug": "amosa",
-    "status": "up",
+    "status": "down",
     "uptime": "96.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.94%",
     "time": 991,
@@ -556,6 +560,7 @@
     "timeMonth": 855,
     "timeYear": 999,
     "dailyMinutesDown": {
+      "2025-05-27": 2,
       "2025-02-24": 15,
       "2025-02-19": 15,
       "2025-01-20": 48,
@@ -650,8 +655,7 @@
       "2025-01-26": 42,
       "2024-12-19": 40,
       "2024-08-26": 48,
-      "2024-07-23": 19,
-      "2024-05-27": 17
+      "2024-07-23": 19
     }
   },
   {
@@ -659,10 +663,10 @@
     "url": "https://www.caminada.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.caminada.ch.ico",
     "slug": "caminada",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1462,
@@ -671,6 +675,7 @@
     "timeMonth": 1175,
     "timeYear": 1462,
     "dailyMinutesDown": {
+      "2025-05-27": 1,
       "2025-01-27": 22,
       "2024-11-27": 42,
       "2024-09-25": 50,
@@ -745,8 +750,7 @@
       "2024-08-26": 23,
       "2024-08-13": 24,
       "2024-07-23": 18,
-      "2024-05-28": 25,
-      "2024-05-27": 9
+      "2024-05-28": 25
     }
   },
   {
@@ -895,8 +899,7 @@
       "2024-08-09": 24,
       "2024-07-23": 17,
       "2024-07-14": 16,
-      "2024-05-28": 26,
-      "2024-05-27": 9
+      "2024-05-28": 26
     }
   },
   {
@@ -974,8 +977,7 @@
       "2024-12-19": 38,
       "2024-08-26": 47,
       "2024-07-27": 18,
-      "2024-05-28": 42,
-      "2024-05-27": 8
+      "2024-05-28": 42
     }
   },
   {
@@ -983,18 +985,19 @@
     "url": "https://www.gruenden.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gruenden.ch.ico",
     "slug": "gruenden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1230,
+    "time": 1231,
     "timeDay": 1256,
     "timeWeek": 1052,
     "timeMonth": 1055,
     "timeYear": 1256,
     "dailyMinutesDown": {
+      "2025-05-27": 1,
       "2025-01-20": 55,
       "2024-11-27": 72,
       "2024-11-19": 16,
@@ -1069,8 +1072,7 @@
       "2024-12-19": 38,
       "2024-07-27": 17,
       "2024-07-23": 16,
-      "2024-05-28": 15,
-      "2024-05-27": 16
+      "2024-05-28": 15
     }
   },
   {
@@ -1079,7 +1081,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.peyer-marking.ch.ico",
     "slug": "peyer-marking",
     "status": "up",
-    "uptime": "97.23%",
+    "uptime": "97.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "61.77%",
@@ -1143,8 +1145,7 @@
       "2025-01-05": 36,
       "2024-10-03": 18,
       "2024-08-26": 22,
-      "2024-08-12": 22,
-      "2024-05-27": 16
+      "2024-08-12": 22
     }
   },
   {
@@ -1350,8 +1351,7 @@
       "2024-12-19": 35,
       "2024-08-26": 19,
       "2024-06-25": 58,
-      "2024-05-28": 26,
-      "2024-05-27": 3
+      "2024-05-28": 26
     }
   },
   {
@@ -1493,7 +1493,8 @@
     "timeMonth": 184,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2025-05-26": 1438,
+      "2025-05-27": 34,
+      "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
@@ -1649,7 +1650,7 @@
     "uptime": "86.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.04%",
+    "uptimeMonth": "69.12%",
     "uptimeYear": "83.63%",
     "time": 486,
     "timeDay": 561,
