@@ -33,16 +33,12 @@ sites:
     url: https://amosa.net
   - name: Photosphere
     url: https://www.association-photosphere.ch
-  - name: Blechworks
-    url: https://www.blechworks.ch
   - name: Caminada
     url: https://www.caminada.ch
   - name: Casanatale
     url: https://www.casanatale.ch
   - name: Cevest
     url: https://www.cevest.ch
-  - name: Christen-Metallbau
-    url: https://www.christen-metallbau.ch
   - name: Ecoreal
     url: https://www.ecoreal.ch
   - name: Fato-Reinigungen
@@ -53,8 +49,6 @@ sites:
     url: https://www.kammerchor-zo.ch
   - name: Peyer-Marking
     url: https://www.peyer-marking.ch
-  - name: Scarlet-Studio
-    url: https://scarlet.studio
   - name: SchmidReisen
     url: https://www.schmidreisen.ch
   - name: Tägi
