@@ -15,10 +15,6 @@ sites:
     url: https://www.ine-rave.com
   - name: kaikehrer
     url: https://kaikehrer.ch
-  - name: Keey
-    url: https://keey.ch
-  - name: PixelPirat
-    url: https://pixelpirat.ch
   - name: R2Partners
     url: https://r2partnersag.ch
   - name: Seilers-Werbeblog
@@ -35,16 +31,10 @@ sites:
     url: https://www.association-photosphere.ch
   - name: Caminada
     url: https://www.caminada.ch
-  - name: Casanatale
-    url: https://www.casanatale.ch
   - name: Cevest
     url: https://www.cevest.ch
   - name: Ecoreal
     url: https://www.ecoreal.ch
-  - name: Fato-Reinigungen
-    url: https://www.fato-reinigungen.ch
-  - name: Gruenden
-    url: https://www.gruenden.ch/
   - name: Kammerchor-ZO
     url: https://www.kammerchor-zo.ch
   - name: Peyer-Marking
@@ -57,8 +47,6 @@ sites:
     url: https://events.taegi.ch
   - name: Taormina
     url: https://www.taormina-law.ch
-  - name: TXgroup
-    url: https://tx.group
   - name: TXgroup-Ticker
     url: https://tools.eurolandir.com/tools/ticker/html/?companycode=CH-TAMN&v=static&lang=en-GB
   - name: TXgroup-SharePriceOverview
