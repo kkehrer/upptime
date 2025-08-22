@@ -1,7 +1,7 @@
 url: https://events.taegi.ch
-status: down
-code: 503
-responseTime: 3836
-lastUpdated: 2025-08-22T07:28:06.700Z
+status: up
+code: 200
+responseTime: 16419
+lastUpdated: 2025-08-22T07:46:00.794Z
 startTime: 2023-09-05T17:05:29.597Z
 generator: Upptime <https://github.com/upptime/upptime>
