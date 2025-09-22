@@ -86,8 +86,8 @@
     "slug": "goldhahn",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.24%",
     "time": 4060,
@@ -96,7 +96,6 @@
     "timeMonth": 6397,
     "timeYear": 4165,
     "dailyMinutesDown": {
-      "2025-09-21": 1,
       "2025-09-17": 21,
       "2025-09-12": 19,
       "2025-09-07": 39,
