@@ -1,7 +1,7 @@
 url: https://www.peyer-marking.ch
-status: up
-code: 200
-responseTime: 1105
-lastUpdated: 2025-10-02T23:05:51.378Z
+status: down
+code: 500
+responseTime: 1389
+lastUpdated: 2025-10-03T18:11:03.760Z
 startTime: 2023-06-04T15:54:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
