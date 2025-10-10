@@ -1,7 +1,7 @@
 url: https://www.taormina-law.ch
-status: up
-code: 200
-responseTime: 2130
-lastUpdated: 2025-10-09T23:06:01.196Z
+status: down
+code: 500
+responseTime: 840
+lastUpdated: 2025-10-10T18:35:32.802Z
 startTime: 2023-06-04T15:54:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
