@@ -421,9 +421,9 @@
     "slug": "wellenreiter",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 3919,
     "timeDay": 1966,
@@ -431,7 +431,6 @@
     "timeMonth": 1982,
     "timeYear": 3762,
     "dailyMinutesDown": {
-      "2025-10-23": 9,
       "2025-09-03": 16,
       "2025-08-31": 28,
       "2025-06-16": 16,
@@ -552,7 +551,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.31%",
+    "uptimeYear": "94.32%",
     "time": 961,
     "timeDay": 781,
     "timeWeek": 842,
@@ -586,8 +585,7 @@
       "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
-      "2024-10-25": 1440,
-      "2024-10-24": 1440
+      "2024-10-25": 1440
     }
   },
   {
