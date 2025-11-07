@@ -11,10 +11,10 @@ sites:
     url: https://felixadvisory.ch
   - name: Goldhahn
     url: https://goldhahn.swiss
-  - name: Ine.rave
-    url: https://www.ine-rave.com
   - name: kaikehrer
     url: https://kaikehrer.ch
+  - name: licht
+    url: https://licht.kaikehrer.ch
   - name: R2Partners
     url: https://r2partnersag.ch
   - name: Seilers-Werbeblog
@@ -23,18 +23,12 @@ sites:
     url: https://studiopm.ch
   - name: Wellenreiter
     url: https://www.wellenreiter.consulting
-  - name: AlegraCapital
-    url: https://www.alegracapital.com
-  - name: Amosa
-    url: https://amosa.net
   - name: Photosphere
     url: https://www.association-photosphere.ch
   - name: Caminada
     url: https://www.caminada.ch
   - name: Cevest
     url: https://www.cevest.ch
-  - name: Ecoreal
-    url: https://www.ecoreal.ch
   - name: Kammerchor-ZO
     url: https://www.kammerchor-zo.ch
   - name: Peyer-Marking
@@ -47,14 +41,6 @@ sites:
     url: https://events.taegi.ch
   - name: Taormina
     url: https://www.taormina-law.ch
-  - name: TXgroup-Ticker
-    url: https://tools.eurolandir.com/tools/ticker/html/?companycode=CH-TAMN&v=static&lang=en-GB
-  - name: TXgroup-SharePriceOverview
-    url: https://tools.eurolandir.com/tools/ticker/html/?companycode=CH-TAMN&v=chart&lang=en-GB
-  - name: TXgroup-SharePriceDetail
-    url: https://tools.eurolandir.com/tools/custom/CH-TAMN/bundle.html?lang=en-GB
-  - name: TXgroup-ShareSeries
-    url: https://tools.eurolandir.com/tools/shareseries/?companycode=CH-TAMN&lang=en-GB
   - name: UniqueReal
     url: https://www.uniquereal.ch
 
