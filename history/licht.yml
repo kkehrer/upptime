@@ -1,7 +1,7 @@
 url: https://licht.kaikehrer.ch
-status: up
-code: 200
-responseTime: 568
-lastUpdated: 2025-11-17T23:05:53.778Z
+status: down
+code: 500
+responseTime: 56
+lastUpdated: 2025-11-18T11:36:02.980Z
 startTime: 2025-11-07T19:50:37.489Z
 generator: Upptime <https://github.com/upptime/upptime>
