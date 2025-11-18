@@ -170,9 +170,9 @@
     "slug": "kaikehrer",
     "status": "down",
     "uptime": "93.70%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 972,
     "timeDay": 441,
@@ -180,7 +180,7 @@
     "timeMonth": 952,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2025-11-18": 18,
+      "2025-11-18": 33,
       "2025-02-13": 31,
       "2025-02-12": 1
     }
@@ -190,19 +190,19 @@
     "url": "https://licht.kaikehrer.ch",
     "icon": "https://icons.duckduckgo.com/ip3/licht.kaikehrer.ch.ico",
     "slug": "licht",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "98.77%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 935,
-    "timeDay": 342,
-    "timeWeek": 546,
-    "timeMonth": 935,
-    "timeYear": 935,
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 886,
+    "timeDay": 308,
+    "timeWeek": 512,
+    "timeMonth": 886,
+    "timeYear": 886,
     "dailyMinutesDown": {
-      "2025-11-18": 18
+      "2025-11-18": 19
     }
   },
   {
