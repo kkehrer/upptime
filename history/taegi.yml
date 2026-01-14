@@ -1,7 +1,7 @@
 url: https://www.taegi.ch
-status: up
-code: 200
-responseTime: 2200
-lastUpdated: 2026-01-14T04:31:09.928Z
+status: down
+code: 503
+responseTime: 1152
+lastUpdated: 2026-01-14T04:53:18.193Z
 startTime: 2023-06-04T15:54:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
