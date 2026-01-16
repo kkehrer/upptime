@@ -1,7 +1,7 @@
 url: https://www.cevest.ch
-status: up
-code: 200
-responseTime: 3151
-lastUpdated: 2026-01-15T23:06:31.686Z
+status: down
+code: 500
+responseTime: 3386
+lastUpdated: 2026-01-16T21:01:08.101Z
 startTime: 2023-06-04T15:54:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
