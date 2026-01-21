@@ -1,7 +1,7 @@
 url: https://goldhahn.swiss
-status: up
-code: 200
-responseTime: 3525
-lastUpdated: 2026-01-20T23:06:13.398Z
+status: down
+code: 503
+responseTime: 843
+lastUpdated: 2026-01-21T02:48:59.937Z
 startTime: 2023-06-03T19:31:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
