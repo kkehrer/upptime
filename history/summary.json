@@ -91,7 +91,7 @@
     "slug": "goldhahn",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "95.99%",
+    "uptimeDay": "96.29%",
     "uptimeWeek": "97.77%",
     "uptimeMonth": "85.92%",
     "uptimeYear": "96.90%",
@@ -265,11 +265,11 @@
     "url": "https://www.seilers-werbeblog.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.seilers-werbeblog.ch.ico",
     "slug": "seilers-werbeblog",
-    "status": "up",
+    "status": "down",
     "uptime": "97.44%",
-    "uptimeDay": "94.74%",
-    "uptimeWeek": "93.94%",
-    "uptimeMonth": "85.65%",
+    "uptimeDay": "94.52%",
+    "uptimeWeek": "93.89%",
+    "uptimeMonth": "85.63%",
     "uptimeYear": "92.97%",
     "time": 1633,
     "timeDay": 1767,
@@ -277,7 +277,7 @@
     "timeMonth": 1669,
     "timeYear": 1634,
     "dailyMinutesDown": {
-      "2026-03-02": 47,
+      "2026-03-02": 52,
       "2026-03-01": 68,
       "2026-02-28": 350,
       "2026-02-27": 20,
@@ -371,8 +371,7 @@
       "2025-04-16": 37,
       "2025-04-12": 43,
       "2025-04-11": 46,
-      "2025-04-02": 39,
-      "2025-03-29": 38
+      "2025-04-02": 39
     }
   },
   {
@@ -380,19 +379,19 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "up",
+    "status": "down",
     "uptime": "97.48%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "94.22%",
+    "uptimeDay": "94.99%",
+    "uptimeWeek": "94.19%",
     "uptimeMonth": "85.77%",
-    "uptimeYear": "93.07%",
+    "uptimeYear": "93.08%",
     "time": 4218,
     "timeDay": 5408,
     "timeWeek": 4644,
     "timeMonth": 4620,
     "timeYear": 4389,
     "dailyMinutesDown": {
-      "2026-03-02": 43,
+      "2026-03-02": 46,
       "2026-03-01": 63,
       "2026-02-28": 341,
       "2026-02-27": 18,
@@ -490,8 +489,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 914,
-      "2025-03-17": 37,
-      "2025-03-11": 42
+      "2025-03-17": 37
     }
   },
   {
