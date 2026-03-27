@@ -93,18 +93,19 @@
     "url": "https://goldhahn.swiss",
     "icon": "https://icons.duckduckgo.com/ip3/goldhahn.swiss.ico",
     "slug": "goldhahn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "97.02%",
     "time": 4132,
     "timeDay": 3265,
-    "timeWeek": 3248,
+    "timeWeek": 3251,
     "timeMonth": 3198,
     "timeYear": 4225,
     "dailyMinutesDown": {
+      "2026-03-27": 1,
       "2026-03-25": 28,
       "2026-03-21": 29,
       "2026-03-20": 22,
@@ -189,7 +190,7 @@
       "2025-07-03": 39,
       "2025-07-02": 103,
       "2025-06-30": 46,
-      "2025-06-29": 54
+      "2025-06-29": 36
     }
   },
   {
