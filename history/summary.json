@@ -35,19 +35,19 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "89.52%",
-    "uptimeWeek": "92.06%",
+    "uptimeDay": "89.47%",
+    "uptimeWeek": "92.05%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "99.72%",
-    "time": 2342,
-    "timeDay": 1833,
-    "timeWeek": 1834,
-    "timeMonth": 1906,
-    "timeYear": 2275,
+    "time": 2340,
+    "timeDay": 1757,
+    "timeWeek": 1817,
+    "timeMonth": 1895,
+    "timeYear": 2272,
     "dailyMinutesDown": {
-      "2026-04-11": 133,
+      "2026-04-11": 134,
       "2026-04-10": 247,
       "2026-04-09": 136,
       "2026-04-08": 61,
@@ -972,9 +972,9 @@
     "slug": "taegi-events",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "87.69%",
-    "uptimeWeek": "96.12%",
-    "uptimeMonth": "98.32%",
+    "uptimeDay": "88.73%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "98.82%",
     "time": 2131,
     "timeDay": 1656,
@@ -982,7 +982,7 @@
     "timeMonth": 1677,
     "timeYear": 2048,
     "dailyMinutesDown": {
-      "2026-04-11": 162,
+      "2026-04-11": 147,
       "2026-04-10": 95,
       "2026-04-09": 114,
       "2026-04-06": 20,
@@ -1038,7 +1038,8 @@
       "2026-01-16": 878,
       "2026-01-11": 20,
       "2026-01-08": 16,
-      "2026-01-06": 15
+      "2026-01-06": 15,
+      "2025-12-16": 21
     }
   },
   {
@@ -1048,9 +1049,9 @@
     "slug": "taormina",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "89.97%",
-    "uptimeWeek": "96.64%",
-    "uptimeMonth": "98.46%",
+    "uptimeDay": "90.98%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "98.67%",
     "time": 2112,
     "timeDay": 1779,
@@ -1058,7 +1059,7 @@
     "timeMonth": 1973,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2026-04-11": 145,
+      "2026-04-11": 130,
       "2026-04-10": 76,
       "2026-04-09": 102,
       "2026-04-06": 17,
@@ -1122,7 +1123,8 @@
       "2025-08-31": 18,
       "2025-08-26": 21,
       "2025-08-05": 17,
-      "2025-06-30": 19
+      "2025-06-30": 19,
+      "2025-06-19": 32
     }
   },
   {
@@ -1132,9 +1134,9 @@
     "slug": "unique-real",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "90.16%",
-    "uptimeWeek": "96.87%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "98.65%",
     "time": 1772,
     "timeDay": 1573,
@@ -1142,7 +1144,7 @@
     "timeMonth": 1605,
     "timeYear": 1695,
     "dailyMinutesDown": {
-      "2026-04-11": 141,
+      "2026-04-11": 127,
       "2026-04-10": 73,
       "2026-04-09": 100,
       "2026-04-04": 51,
@@ -1208,7 +1210,8 @@
       "2025-09-15": 38,
       "2025-09-10": 38,
       "2025-09-05": 26,
-      "2025-08-31": 16
+      "2025-08-31": 16,
+      "2025-08-26": 18
     }
   }
 ]
