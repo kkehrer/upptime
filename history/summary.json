@@ -117,12 +117,12 @@
     "slug": "goldhahn",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "95.37%",
+    "uptimeDay": "97.45%",
     "uptimeWeek": "98.69%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "97.02%",
     "time": 4115,
-    "timeDay": 3005,
+    "timeDay": 3596,
     "timeWeek": 2976,
     "timeMonth": 2926,
     "timeYear": 4147,
@@ -673,18 +673,19 @@
     "url": "https://www.kammerchor-zo.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.kammerchor-zo.ch.ico",
     "slug": "kammerchor-zo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "91.79%",
-    "uptimeMonth": "94.99%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "94.98%",
     "uptimeYear": "99.44%",
-    "time": 1661,
+    "time": 1659,
     "timeDay": 1494,
     "timeWeek": 1437,
     "timeMonth": 1480,
     "timeYear": 1631,
     "dailyMinutesDown": {
+      "2026-04-23": 4,
       "2026-04-22": 152,
       "2026-04-21": 45,
       "2026-04-20": 109,
@@ -722,7 +723,7 @@
       "2026-03-04": 32,
       "2026-03-03": 29,
       "2026-03-02": 86,
-      "2026-03-01": 58
+      "2026-03-01": 24
     }
   },
   {
@@ -730,11 +731,11 @@
     "url": "https://www.peyer-marking.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.peyer-marking.ch.ico",
     "slug": "peyer-marking",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "91.92%",
-    "uptimeMonth": "95.07%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "91.88%",
+    "uptimeMonth": "95.06%",
     "uptimeYear": "99.45%",
     "time": 1810,
     "timeDay": 1415,
@@ -742,6 +743,7 @@
     "timeMonth": 1481,
     "timeYear": 1763,
     "dailyMinutesDown": {
+      "2026-04-23": 4,
       "2026-04-22": 151,
       "2026-04-21": 44,
       "2026-04-20": 107,
@@ -780,7 +782,7 @@
       "2026-03-03": 26,
       "2026-03-02": 79,
       "2026-03-01": 53,
-      "2026-02-28": 52
+      "2026-02-28": 28
     }
   },
   {
@@ -788,18 +790,19 @@
     "url": "https://www.schmidreisen.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.schmidreisen.ch.ico",
     "slug": "schmid-reisen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "92.05%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "92.02%",
     "uptimeMonth": "95.16%",
     "uptimeYear": "99.47%",
-    "time": 1242,
+    "time": 1243,
     "timeDay": 1095,
     "timeWeek": 932,
     "timeMonth": 972,
     "timeYear": 1155,
     "dailyMinutesDown": {
+      "2026-04-23": 3,
       "2026-04-22": 149,
       "2026-04-21": 43,
       "2026-04-20": 106,
@@ -837,7 +840,7 @@
       "2026-03-02": 43,
       "2026-03-01": 48,
       "2026-02-28": 64,
-      "2026-02-26": 83
+      "2026-02-26": 61
     }
   },
   {
@@ -845,11 +848,11 @@
     "url": "https://www.taegi.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.taegi.ch.ico",
     "slug": "taegi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "92.32%",
-    "uptimeMonth": "95.32%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "92.29%",
+    "uptimeMonth": "95.31%",
     "uptimeYear": "99.47%",
     "time": 1629,
     "timeDay": 1817,
@@ -857,6 +860,7 @@
     "timeMonth": 1770,
     "timeYear": 1617,
     "dailyMinutesDown": {
+      "2026-04-23": 3,
       "2026-04-22": 147,
       "2026-04-21": 42,
       "2026-04-20": 104,
@@ -896,7 +900,7 @@
       "2026-03-01": 44,
       "2026-02-28": 57,
       "2026-02-26": 123,
-      "2026-02-25": 20
+      "2026-02-25": 2
     }
   },
   {
@@ -904,18 +908,19 @@
     "url": "https://events.taegi.ch",
     "icon": "https://icons.duckduckgo.com/ip3/events.taegi.ch.ico",
     "slug": "taegi-events",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "92.58%",
-    "uptimeMonth": "95.48%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "92.56%",
+    "uptimeMonth": "95.47%",
+    "uptimeYear": "99.48%",
     "time": 2079,
     "timeDay": 1602,
     "timeWeek": 1588,
     "timeMonth": 1607,
     "timeYear": 2005,
     "dailyMinutesDown": {
+      "2026-04-23": 2,
       "2026-04-22": 145,
       "2026-04-21": 41,
       "2026-04-20": 104,
@@ -955,8 +960,7 @@
       "2026-02-26": 117,
       "2026-02-25": 114,
       "2026-02-24": 44,
-      "2026-02-23": 22,
-      "2026-02-21": 29
+      "2026-02-23": 22
     }
   },
   {
@@ -964,18 +968,19 @@
     "url": "https://www.taormina-law.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.taormina-law.ch.ico",
     "slug": "taormina",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "92.84%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "92.82%",
     "uptimeMonth": "95.69%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.48%",
     "time": 2123,
     "timeDay": 1904,
     "timeWeek": 2480,
     "timeMonth": 2077,
     "timeYear": 2103,
     "dailyMinutesDown": {
+      "2026-04-23": 2,
       "2026-04-22": 143,
       "2026-04-21": 40,
       "2026-04-20": 101,
@@ -1017,9 +1022,7 @@
       "2026-02-24": 44,
       "2026-02-23": 22,
       "2026-02-21": 131,
-      "2026-02-20": 314,
-      "2026-02-19": 1440,
-      "2026-02-18": 18
+      "2026-02-20": 23
     }
   },
   {
@@ -1027,18 +1030,19 @@
     "url": "https://www.uniquereal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.uniquereal.ch.ico",
     "slug": "unique-real",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "92.95%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "92.94%",
     "uptimeMonth": "95.80%",
     "uptimeYear": "98.95%",
-    "time": 1753,
+    "time": 1751,
     "timeDay": 1716,
     "timeWeek": 1617,
     "timeMonth": 1604,
     "timeYear": 1688,
     "dailyMinutesDown": {
+      "2026-04-23": 1,
       "2026-04-22": 141,
       "2026-04-21": 39,
       "2026-04-20": 101,
@@ -1083,7 +1087,7 @@
       "2026-02-18": 274,
       "2026-02-17": 839,
       "2026-02-15": 17,
-      "2026-02-14": 39
+      "2026-02-14": 23
     }
   }
 ]
