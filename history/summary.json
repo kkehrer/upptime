@@ -141,10 +141,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/goldhahn.swiss.ico",
     "slug": "goldhahn",
     "status": "down",
-    "uptime": "98.85%",
+    "uptime": "98.84%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.45%",
-    "uptimeMonth": "93.99%",
+    "uptimeWeek": "75.16%",
+    "uptimeMonth": "93.92%",
     "uptimeYear": "96.53%",
     "time": 4081,
     "timeDay": 0,
@@ -240,7 +240,7 @@
       "2026-05-02": 27,
       "2026-05-05": 133,
       "2026-05-24": 27,
-      "2026-06-05": 44,
+      "2026-06-05": 74,
       "2026-06-04": 1440,
       "2026-06-03": 990
     }
@@ -337,7 +337,7 @@
     "slug": "seilers-werbeblog",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "90.22%",
+    "uptimeDay": "90.36%",
     "uptimeWeek": "95.48%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "97.62%",
@@ -682,9 +682,9 @@
     "slug": "kammerchor-zo",
     "status": "down",
     "uptime": "97.70%",
-    "uptimeDay": "59.84%",
-    "uptimeWeek": "92.52%",
-    "uptimeMonth": "23.62%",
+    "uptimeDay": "57.80%",
+    "uptimeWeek": "92.23%",
+    "uptimeMonth": "23.55%",
     "uptimeYear": "93.09%",
     "time": 1644,
     "timeDay": 1272,
@@ -744,7 +744,7 @@
       "2026-05-30": 64,
       "2026-06-03": 80,
       "2026-06-04": 545,
-      "2026-06-05": 33
+      "2026-06-05": 63
     }
   },
   {
@@ -753,10 +753,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.peyer-marking.ch.ico",
     "slug": "peyer-marking",
     "status": "down",
-    "uptime": "97.71%",
-    "uptimeDay": "61.52%",
-    "uptimeWeek": "93.02%",
-    "uptimeMonth": "23.75%",
+    "uptime": "97.70%",
+    "uptimeDay": "59.47%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "23.69%",
     "uptimeYear": "93.11%",
     "time": 1755,
     "timeDay": 1575,
@@ -816,7 +816,7 @@
       "2026-05-30": 54,
       "2026-06-03": 68,
       "2026-06-04": 526,
-      "2026-06-05": 29
+      "2026-06-05": 58
     }
   },
   {
@@ -826,10 +826,10 @@
     "slug": "schmid-reisen",
     "status": "down",
     "uptime": "97.71%",
-    "uptimeDay": "63.20%",
-    "uptimeWeek": "93.64%",
-    "uptimeMonth": "23.92%",
-    "uptimeYear": "93.13%",
+    "uptimeDay": "61.15%",
+    "uptimeWeek": "93.35%",
+    "uptimeMonth": "23.85%",
+    "uptimeYear": "93.12%",
     "time": 1206,
     "timeDay": 918,
     "timeWeek": 925,
@@ -887,7 +887,7 @@
       "2026-05-30": 44,
       "2026-06-03": 44,
       "2026-06-04": 506,
-      "2026-06-05": 24
+      "2026-06-05": 53
     }
   },
   {
@@ -1049,9 +1049,9 @@
     "slug": "taormina",
     "status": "down",
     "uptime": "97.72%",
-    "uptimeDay": "64.86%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "24.21%",
+    "uptimeDay": "62.82%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "24.15%",
     "uptimeYear": "93.15%",
     "time": 2139,
     "timeDay": 1561,
@@ -1120,7 +1120,7 @@
       "2026-05-07": 1440,
       "2026-06-03": 28,
       "2026-06-04": 487,
-      "2026-06-05": 19
+      "2026-06-05": 48
     }
   },
   {
@@ -1130,9 +1130,9 @@
     "slug": "unique-real",
     "status": "down",
     "uptime": "97.72%",
-    "uptimeDay": "66.54%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "24.30%",
+    "uptimeDay": "64.49%",
+    "uptimeWeek": "94.72%",
+    "uptimeMonth": "24.23%",
     "uptimeYear": "93.16%",
     "time": 1674,
     "timeDay": 1347,
@@ -1201,7 +1201,7 @@
       "2026-05-07": 1440,
       "2026-06-03": 21,
       "2026-06-04": 468,
-      "2026-06-05": 14
+      "2026-06-05": 44
     }
   }
 ]
