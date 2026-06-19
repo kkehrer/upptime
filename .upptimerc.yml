@@ -15,6 +15,8 @@ sites:
     url: https://kaikehrer.ch
   - name: licht
     url: https://licht.kaikehrer.ch
+  - name: licht2
+    url: https://licht2.kaikehrer.ch
   - name: R2Partners
     url: https://r2partnersag.ch
   - name: Seilers-Werbeblog
@@ -27,18 +29,12 @@ sites:
     url: https://www.association-photosphere.ch
   - name: Caminada
     url: https://www.caminada.ch
-  - name: Cevest
-    url: https://www.cevest.ch
   - name: Kammerchor-ZO
     url: https://www.kammerchor-zo.ch
   - name: Peyer-Marking
     url: https://www.peyer-marking.ch
   - name: SchmidReisen
     url: https://www.schmidreisen.ch
-  - name: Tägi
-    url: https://www.taegi.ch
-  - name: Tägi-Events
-    url: https://events.taegi.ch
   - name: Taormina
     url: https://www.taormina-law.ch
   - name: UniqueReal
