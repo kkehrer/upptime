@@ -48,15 +48,15 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "82.48%",
-    "uptimeWeek": "82.27%",
-    "uptimeMonth": "80.84%",
+    "uptimeDay": "80.19%",
+    "uptimeWeek": "81.95%",
+    "uptimeMonth": "80.76%",
     "uptimeYear": "98.40%",
     "time": 2150,
-    "timeDay": 1644,
-    "timeWeek": 1631,
+    "timeDay": 1658,
+    "timeWeek": 1633,
     "timeMonth": 1848,
     "timeYear": 2044,
     "dailyMinutesDown": {
@@ -88,7 +88,7 @@
       "2026-06-23": 315,
       "2026-06-24": 300,
       "2026-06-25": 199,
-      "2026-06-26": 253
+      "2026-06-26": 286
     }
   },
   {
@@ -414,17 +414,17 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "83.14%",
-    "uptimeWeek": "80.19%",
-    "uptimeMonth": "80.56%",
-    "uptimeYear": "98.38%",
-    "time": 4125,
-    "timeDay": 2195,
-    "timeWeek": 2765,
-    "timeMonth": 3191,
-    "timeYear": 4181,
+    "uptimeDay": "80.85%",
+    "uptimeWeek": "79.87%",
+    "uptimeMonth": "80.48%",
+    "uptimeYear": "98.37%",
+    "time": 4127,
+    "timeDay": 2483,
+    "timeWeek": 2805,
+    "timeMonth": 3202,
+    "timeYear": 4183,
     "dailyMinutesDown": {
       "2026-06-07": 926,
       "2026-06-08": 417,
@@ -445,7 +445,7 @@
       "2026-06-23": 314,
       "2026-06-24": 299,
       "2026-06-25": 171,
-      "2026-06-26": 242
+      "2026-06-26": 275
     }
   },
   {
@@ -549,7 +549,7 @@
     "uptime": "97.43%",
     "uptimeDay": "94.81%",
     "uptimeWeek": "93.37%",
-    "uptimeMonth": "73.27%",
+    "uptimeMonth": "73.34%",
     "uptimeYear": "92.11%",
     "time": 1598,
     "timeDay": 1371,
@@ -618,7 +618,7 @@
     "uptime": "97.46%",
     "uptimeDay": "95.48%",
     "uptimeWeek": "93.94%",
-    "uptimeMonth": "74.41%",
+    "uptimeMonth": "74.49%",
     "uptimeYear": "92.21%",
     "time": 1662,
     "timeDay": 2579,
@@ -685,16 +685,17 @@
     "slug": "schmid-reisen",
     "status": "up",
     "uptime": "97.49%",
-    "uptimeDay": "96.15%",
-    "uptimeWeek": "94.52%",
-    "uptimeMonth": "75.88%",
-    "uptimeYear": "92.31%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "94.66%",
+    "uptimeMonth": "75.99%",
+    "uptimeYear": "92.30%",
     "time": 1133,
     "timeDay": 1617,
     "timeWeek": 1108,
     "timeMonth": 1044,
     "timeYear": 1148,
     "dailyMinutesDown": {
+      "2026-04-29": 48,
       "2026-04-30": 77,
       "2026-05-01": 79,
       "2026-05-05": 153,
@@ -746,7 +747,7 @@
       "2026-06-23": 81,
       "2026-06-24": 56,
       "2026-06-25": 82,
-      "2026-06-26": 55
+      "2026-06-26": 41
     }
   },
   {
@@ -756,17 +757,17 @@
     "slug": "taormina",
     "status": "up",
     "uptime": "97.51%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "95.37%",
-    "uptimeMonth": "78.07%",
-    "uptimeYear": "92.37%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "95.46%",
+    "uptimeMonth": "78.17%",
+    "uptimeYear": "92.36%",
     "time": 2050,
     "timeDay": 1514,
     "timeWeek": 1635,
     "timeMonth": 1565,
     "timeYear": 1995,
     "dailyMinutesDown": {
-      "2026-04-22": 22,
+      "2026-04-22": 45,
       "2026-04-23": 91,
       "2026-04-24": 68,
       "2026-04-25": 98,
@@ -822,7 +823,7 @@
       "2026-06-23": 76,
       "2026-06-24": 41,
       "2026-06-25": 80,
-      "2026-06-26": 45
+      "2026-06-26": 36
     }
   },
   {
@@ -832,16 +833,17 @@
     "slug": "unique-real",
     "status": "up",
     "uptime": "97.53%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "95.94%",
-    "uptimeMonth": "79.01%",
-    "uptimeYear": "92.43%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "79.10%",
+    "uptimeYear": "92.42%",
     "time": 1646,
     "timeDay": 1307,
     "timeWeek": 1456,
     "timeMonth": 1372,
     "timeYear": 1649,
     "dailyMinutesDown": {
+      "2026-04-21": 18,
       "2026-04-22": 141,
       "2026-04-23": 89,
       "2026-04-24": 66,
@@ -898,7 +900,7 @@
       "2026-06-23": 71,
       "2026-06-24": 20,
       "2026-06-25": 72,
-      "2026-06-26": 37
+      "2026-06-26": 32
     }
   }
 ]
