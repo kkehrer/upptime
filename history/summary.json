@@ -48,16 +48,16 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "86.80%",
-    "uptimeWeek": "79.20%",
-    "uptimeMonth": "82.24%",
-    "uptimeYear": "98.52%",
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "83.36%",
+    "uptimeWeek": "78.75%",
+    "uptimeMonth": "82.12%",
+    "uptimeYear": "98.51%",
     "time": 2162,
-    "timeDay": 1729,
-    "timeWeek": 1699,
-    "timeMonth": 1792,
+    "timeDay": 1955,
+    "timeWeek": 1673,
+    "timeMonth": 1794,
     "timeYear": 2030,
     "dailyMinutesDown": {
       "2026-06-05": 378,
@@ -85,7 +85,7 @@
       "2026-06-26": 286,
       "2026-06-27": 508,
       "2026-06-28": 270,
-      "2026-06-29": 1
+      "2026-06-29": 54
     }
   },
   {
@@ -412,16 +412,16 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "86.83%",
-    "uptimeWeek": "79.73%",
-    "uptimeMonth": "82.60%",
-    "uptimeYear": "98.55%",
-    "time": 4101,
-    "timeDay": 2607,
-    "timeWeek": 2674,
-    "timeMonth": 3196,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "83.39%",
+    "uptimeWeek": "79.28%",
+    "uptimeMonth": "82.47%",
+    "uptimeYear": "98.54%",
+    "time": 4102,
+    "timeDay": 3118,
+    "timeWeek": 2683,
+    "timeMonth": 3201,
     "timeYear": 4134,
     "dailyMinutesDown": {
       "2026-06-09": 341,
@@ -444,7 +444,7 @@
       "2026-06-26": 275,
       "2026-06-27": 493,
       "2026-06-28": 269,
-      "2026-06-29": 1
+      "2026-06-29": 54
     }
   },
   {
