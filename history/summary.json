@@ -48,16 +48,16 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "92.85%",
-    "uptimeWeek": "81.52%",
-    "uptimeMonth": "81.71%",
-    "uptimeYear": "98.48%",
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "87.28%",
+    "uptimeWeek": "81.10%",
+    "uptimeMonth": "81.52%",
+    "uptimeYear": "98.46%",
     "time": 2146,
-    "timeDay": 2146,
-    "timeWeek": 1730,
-    "timeMonth": 1749,
+    "timeDay": 2077,
+    "timeWeek": 1745,
+    "timeMonth": 1755,
     "timeYear": 2020,
     "dailyMinutesDown": {
       "2026-06-07": 238,
@@ -86,7 +86,7 @@
       "2026-06-30": 90,
       "2026-07-01": 224,
       "2026-07-02": 305,
-      "2026-07-03": 103
+      "2026-07-03": 183
     }
   },
   {
@@ -351,12 +351,12 @@
     "uptime": "99.56%",
     "uptimeDay": "93.85%",
     "uptimeWeek": "97.83%",
-    "uptimeMonth": "86.23%",
+    "uptimeMonth": "86.38%",
     "uptimeYear": "98.63%",
     "time": 1531,
     "timeDay": 1145,
     "timeWeek": 1233,
-    "timeMonth": 1141,
+    "timeMonth": 1143,
     "timeYear": 1509,
     "dailyMinutesDown": {
       "2026-03-04": 37,
@@ -414,16 +414,16 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "94.26%",
-    "uptimeWeek": "81.86%",
-    "uptimeMonth": "84.04%",
-    "uptimeYear": "98.67%",
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "88.70%",
+    "uptimeWeek": "81.43%",
+    "uptimeMonth": "83.86%",
+    "uptimeYear": "98.66%",
     "time": 4079,
-    "timeDay": 3691,
-    "timeWeek": 2998,
-    "timeMonth": 3208,
+    "timeDay": 3930,
+    "timeWeek": 3062,
+    "timeMonth": 3214,
     "timeYear": 4105,
     "dailyMinutesDown": {
       "2026-06-12": 308,
@@ -447,7 +447,7 @@
       "2026-06-30": 68,
       "2026-07-01": 248,
       "2026-07-02": 304,
-      "2026-07-03": 83
+      "2026-07-03": 163
     }
   },
   {
@@ -522,7 +522,7 @@
     "timeDay": 867,
     "timeWeek": 1261,
     "timeMonth": 1177,
-    "timeYear": 1352,
+    "timeYear": 1353,
     "dailyMinutesDown": {
       "2026-01-28": 18,
       "2026-02-18": 16,
