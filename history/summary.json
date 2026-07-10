@@ -49,19 +49,19 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "85.81%",
+    "uptimeDay": "85.76%",
     "uptimeWeek": "90.78%",
-    "uptimeMonth": "82.74%",
-    "uptimeYear": "98.47%",
-    "time": 2137,
-    "timeDay": 2595,
-    "timeWeek": 2143,
-    "timeMonth": 1799,
-    "timeYear": 2026,
+    "uptimeMonth": "82.90%",
+    "uptimeYear": "98.49%",
+    "time": 2135,
+    "timeDay": 2017,
+    "timeWeek": 2071,
+    "timeMonth": 1791,
+    "timeYear": 2023,
     "dailyMinutesDown": {
-      "2026-06-09": 444,
+      "2026-06-09": 355,
       "2026-06-10": 180,
       "2026-06-11": 661,
       "2026-06-12": 406,
@@ -88,7 +88,8 @@
       "2026-07-03": 247,
       "2026-07-04": 323,
       "2026-07-05": 155,
-      "2026-07-09": 204
+      "2026-07-09": 204,
+      "2026-07-10": 1
     }
   },
   {
@@ -356,7 +357,7 @@
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.12%",
-    "uptimeMonth": "90.55%",
+    "uptimeMonth": "90.71%",
     "uptimeYear": "98.57%",
     "time": 1524,
     "timeDay": 933,
@@ -418,19 +419,19 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "85.82%",
-    "uptimeWeek": "91.32%",
-    "uptimeMonth": "83.12%",
-    "uptimeYear": "98.59%",
-    "time": 4084,
-    "timeDay": 2900,
-    "timeWeek": 3978,
-    "timeMonth": 3250,
-    "timeYear": 4110,
+    "uptimeDay": "85.77%",
+    "uptimeWeek": "91.31%",
+    "uptimeMonth": "83.25%",
+    "uptimeYear": "98.60%",
+    "time": 4083,
+    "timeDay": 2248,
+    "timeWeek": 3824,
+    "timeMonth": 3228,
+    "timeYear": 4105,
     "dailyMinutesDown": {
-      "2026-06-13": 416,
+      "2026-06-13": 361,
       "2026-06-14": 551,
       "2026-06-15": 298,
       "2026-06-16": 504,
@@ -453,7 +454,8 @@
       "2026-07-03": 222,
       "2026-07-04": 312,
       "2026-07-05": 137,
-      "2026-07-09": 204
+      "2026-07-09": 204,
+      "2026-07-10": 1
     }
   },
   {
@@ -557,7 +559,7 @@
     "uptime": "99.43%",
     "uptimeDay": "98.51%",
     "uptimeWeek": "89.43%",
-    "uptimeMonth": "84.15%",
+    "uptimeMonth": "84.39%",
     "uptimeYear": "98.23%",
     "time": 1570,
     "timeDay": 1104,
@@ -610,7 +612,7 @@
     "uptime": "99.46%",
     "uptimeDay": "98.84%",
     "uptimeWeek": "89.91%",
-    "uptimeMonth": "85.03%",
+    "uptimeMonth": "85.27%",
     "uptimeYear": "98.33%",
     "time": 1666,
     "timeDay": 863,
@@ -660,18 +662,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.schmidreisen.ch.ico",
     "slug": "schmid-reisen",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "90.38%",
-    "uptimeMonth": "86.31%",
-    "uptimeYear": "98.41%",
+    "uptime": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.50%",
+    "uptimeMonth": "86.57%",
+    "uptimeYear": "98.40%",
     "time": 1169,
     "timeDay": 810,
     "timeWeek": 1415,
     "timeMonth": 1118,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2026-06-05": 171,
+      "2026-06-05": 237,
       "2026-06-06": 346,
       "2026-06-07": 541,
       "2026-06-08": 571,
@@ -703,8 +705,7 @@
       "2026-07-04": 106,
       "2026-07-05": 361,
       "2026-07-06": 265,
-      "2026-07-07": 121,
-      "2026-07-10": 12
+      "2026-07-07": 121
     }
   },
   {
@@ -714,9 +715,9 @@
     "slug": "taormina",
     "status": "up",
     "uptime": "97.48%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "90.86%",
-    "uptimeMonth": "87.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.93%",
+    "uptimeMonth": "87.97%",
     "uptimeYear": "92.18%",
     "time": 2033,
     "timeDay": 1338,
@@ -724,6 +725,7 @@
     "timeMonth": 1604,
     "timeYear": 1964,
     "dailyMinutesDown": {
+      "2026-04-27": 37,
       "2026-04-28": 56,
       "2026-04-29": 121,
       "2026-04-30": 76,
@@ -785,8 +787,7 @@
       "2026-07-04": 96,
       "2026-07-05": 348,
       "2026-07-06": 260,
-      "2026-07-07": 116,
-      "2026-07-10": 7
+      "2026-07-07": 116
     }
   },
   {
@@ -796,9 +797,9 @@
     "slug": "unique-real",
     "status": "up",
     "uptime": "97.50%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "91.34%",
-    "uptimeMonth": "88.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "88.71%",
     "uptimeYear": "92.25%",
     "time": 1627,
     "timeDay": 1309,
@@ -806,7 +807,7 @@
     "timeMonth": 1397,
     "timeYear": 1627,
     "dailyMinutesDown": {
-      "2026-04-26": 16,
+      "2026-04-26": 32,
       "2026-04-27": 114,
       "2026-04-28": 55,
       "2026-04-29": 120,
@@ -869,8 +870,7 @@
       "2026-07-04": 88,
       "2026-07-05": 335,
       "2026-07-06": 255,
-      "2026-07-07": 112,
-      "2026-07-10": 2
+      "2026-07-07": 112
     }
   }
 ]
