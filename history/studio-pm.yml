@@ -1,7 +1,7 @@
 url: https://studiopm.ch
-status: up
-code: 200
-responseTime: 5241
-lastUpdated: 2026-07-17T06:37:34.999Z
+status: down
+code: 415
+responseTime: 309
+lastUpdated: 2026-07-17T16:46:07.696Z
 startTime: 2023-06-03T19:31:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
