@@ -1,7 +1,7 @@
 url: https://www.wellenreiter.consulting
-status: up
-code: 200
-responseTime: 1792
-lastUpdated: 2026-07-19T23:59:00.942Z
+status: down
+code: 502
+responseTime: 775
+lastUpdated: 2026-07-20T04:54:55.777Z
 startTime: 2023-06-03T19:31:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
