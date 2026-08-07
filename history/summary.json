@@ -49,19 +49,18 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "78.53%",
-    "uptimeMonth": "85.64%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "80.30%",
+    "uptimeMonth": "85.59%",
     "uptimeYear": "98.25%",
-    "time": 2114,
-    "timeDay": 2707,
-    "timeWeek": 2061,
-    "timeMonth": 2086,
-    "timeYear": 2025,
+    "time": 2112,
+    "timeDay": 2101,
+    "timeWeek": 2013,
+    "timeMonth": 2073,
+    "timeYear": 2023,
     "dailyMinutesDown": {
-      "2026-06-24": 29,
       "2026-06-25": 199,
       "2026-06-26": 286,
       "2026-06-27": 508,
@@ -99,7 +98,8 @@
       "2026-08-03": 186,
       "2026-08-04": 289,
       "2026-08-05": 273,
-      "2026-08-06": 54
+      "2026-08-06": 54,
+      "2026-08-07": 25
     }
   },
   {
@@ -367,12 +367,12 @@
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.03%",
-    "uptimeMonth": "98.56%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "98.53%",
     "time": 1500,
     "timeDay": 860,
     "timeWeek": 1085,
-    "timeMonth": 1118,
+    "timeMonth": 1125,
     "timeYear": 1482,
     "dailyMinutesDown": {
       "2026-03-24": 26,
@@ -579,19 +579,18 @@
     "url": "https://www.kammerchor-zo.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.kammerchor-zo.ch.ico",
     "slug": "kammerchor-zo",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "95.22%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "98.25%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "96.64%",
+    "uptimeYear": "98.27%",
     "time": 1543,
     "timeDay": 1231,
     "timeWeek": 1240,
     "timeMonth": 1267,
     "timeYear": 1503,
     "dailyMinutesDown": {
-      "2026-06-08": 158,
       "2026-06-09": 794,
       "2026-06-10": 595,
       "2026-06-11": 1046,
@@ -635,7 +634,8 @@
       "2026-08-04": 150,
       "2026-08-03": 30,
       "2026-08-05": 184,
-      "2026-08-06": 57
+      "2026-08-06": 57,
+      "2026-08-07": 20
     }
   },
   {
@@ -643,19 +643,18 @@
     "url": "https://www.peyer-marking.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.peyer-marking.ch.ico",
     "slug": "peyer-marking",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "96.40%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "98.35%",
-    "time": 1629,
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "98.37%",
+    "time": 1628,
     "timeDay": 1001,
     "timeWeek": 1146,
     "timeMonth": 1232,
     "timeYear": 1590,
     "dailyMinutesDown": {
-      "2026-06-08": 154,
       "2026-06-09": 761,
       "2026-06-10": 572,
       "2026-06-11": 1028,
@@ -699,7 +698,8 @@
       "2026-08-04": 130,
       "2026-08-03": 23,
       "2026-08-05": 175,
-      "2026-08-06": 52
+      "2026-08-06": 52,
+      "2026-08-07": 16
     }
   },
   {
@@ -707,11 +707,11 @@
     "url": "https://www.schmidreisen.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.schmidreisen.ch.ico",
     "slug": "schmid-reisen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "96.24%",
-    "uptimeMonth": "97.19%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "97.17%",
     "uptimeYear": "98.37%",
     "time": 1122,
     "timeDay": 1153,
@@ -719,7 +719,7 @@
     "timeMonth": 994,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2026-06-07": 182,
+      "2026-06-07": 124,
       "2026-06-08": 571,
       "2026-06-09": 728,
       "2026-06-10": 556,
@@ -762,7 +762,8 @@
       "2026-08-04": 98,
       "2026-08-03": 16,
       "2026-08-05": 165,
-      "2026-08-06": 47
+      "2026-08-06": 47,
+      "2026-08-07": 11
     }
   },
   {
@@ -770,11 +771,11 @@
     "url": "https://www.taormina-law.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.taormina-law.ch.ico",
     "slug": "taormina",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "96.75%",
-    "uptimeMonth": "97.42%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "96.69%",
+    "uptimeMonth": "97.40%",
     "uptimeYear": "98.37%",
     "time": 2016,
     "timeDay": 1378,
@@ -782,7 +783,7 @@
     "timeMonth": 1678,
     "timeYear": 1936,
     "dailyMinutesDown": {
-      "2026-06-05": 265,
+      "2026-06-05": 218,
       "2026-06-06": 288,
       "2026-06-07": 423,
       "2026-06-08": 556,
@@ -825,7 +826,8 @@
       "2026-08-01": 48,
       "2026-08-04": 82,
       "2026-08-05": 155,
-      "2026-08-06": 42
+      "2026-08-06": 42,
+      "2026-08-07": 6
     }
   },
   {
@@ -833,19 +835,19 @@
     "url": "https://www.uniquereal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.uniquereal.ch.ico",
     "slug": "unique-real",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "97.09%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "97.07%",
     "uptimeMonth": "97.60%",
-    "uptimeYear": "98.43%",
+    "uptimeYear": "98.44%",
     "time": 1627,
     "timeDay": 1231,
     "timeWeek": 1453,
     "timeMonth": 1488,
     "timeYear": 1619,
     "dailyMinutesDown": {
-      "2026-06-04": 181,
+      "2026-06-04": 144,
       "2026-06-05": 253,
       "2026-06-06": 265,
       "2026-06-07": 382,
@@ -889,7 +891,8 @@
       "2026-08-01": 43,
       "2026-08-04": 68,
       "2026-08-05": 145,
-      "2026-08-06": 37
+      "2026-08-06": 37,
+      "2026-08-07": 1
     }
   }
 ]
