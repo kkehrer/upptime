@@ -50,19 +50,19 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "79.75%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "79.72%",
     "uptimeWeek": "84.23%",
     "uptimeMonth": "84.71%",
-    "uptimeYear": "98.38%",
-    "time": 2109,
-    "timeDay": 2124,
-    "timeWeek": 1887,
-    "timeMonth": 1991,
-    "timeYear": 2009,
+    "uptimeYear": "98.39%",
+    "time": 2107,
+    "timeDay": 2044,
+    "timeWeek": 1871,
+    "timeMonth": 1983,
+    "timeYear": 2007,
     "dailyMinutesDown": {
-      "2026-06-30": 90,
+      "2026-06-30": 52,
       "2026-07-01": 224,
       "2026-07-02": 305,
       "2026-07-03": 247,
@@ -707,18 +707,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.schmidreisen.ch.ico",
     "slug": "schmid-reisen",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "94.22%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "98.50%",
+    "uptime": "99.52%",
+    "uptimeDay": "95.74%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "98.48%",
     "time": 1122,
     "timeDay": 1034,
     "timeWeek": 1010,
     "timeMonth": 1000,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2026-06-09": 540,
+      "2026-06-09": 615,
       "2026-06-10": 556,
       "2026-06-11": 1005,
       "2026-06-12": 274,
@@ -763,7 +763,7 @@
       "2026-08-07": 38,
       "2026-08-08": 109,
       "2026-08-09": 37,
-      "2026-08-10": 74
+      "2026-08-10": 62
     }
   },
   {
@@ -772,10 +772,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.taormina-law.ch.ico",
     "slug": "taormina",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "95.68%",
-    "uptimeMonth": "97.33%",
+    "uptime": "99.49%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "95.75%",
+    "uptimeMonth": "97.34%",
     "uptimeYear": "98.39%",
     "time": 2030,
     "timeDay": 3688,
@@ -783,7 +783,7 @@
     "timeMonth": 1886,
     "timeYear": 1948,
     "dailyMinutesDown": {
-      "2026-06-06": 244,
+      "2026-06-06": 288,
       "2026-06-07": 423,
       "2026-06-08": 556,
       "2026-06-09": 651,
@@ -828,7 +828,7 @@
       "2026-08-06": 42,
       "2026-08-08": 94,
       "2026-08-09": 32,
-      "2026-08-10": 30
+      "2026-08-10": 23
     }
   },
   {
@@ -838,17 +838,17 @@
     "slug": "unique-real",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "96.25%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "96.28%",
     "uptimeMonth": "97.57%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.46%",
     "time": 1617,
     "timeDay": 1567,
     "timeWeek": 1457,
     "timeMonth": 1490,
     "timeYear": 1615,
     "dailyMinutesDown": {
-      "2026-06-05": 120,
+      "2026-06-05": 176,
       "2026-06-06": 265,
       "2026-06-07": 382,
       "2026-06-08": 541,
@@ -894,7 +894,7 @@
       "2026-08-06": 37,
       "2026-08-08": 79,
       "2026-08-09": 27,
-      "2026-08-10": 20
+      "2026-08-10": 18
     }
   }
 ]
