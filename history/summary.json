@@ -50,19 +50,18 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "76.31%",
+    "uptimeDay": "77.68%",
     "uptimeWeek": "80.79%",
-    "uptimeMonth": "84.85%",
-    "uptimeYear": "98.74%",
-    "time": 2050,
-    "timeDay": 1764,
-    "timeWeek": 1724,
-    "timeMonth": 1919,
-    "timeYear": 1984,
+    "uptimeMonth": "85.05%",
+    "uptimeYear": "98.75%",
+    "time": 2047,
+    "timeDay": 1772,
+    "timeWeek": 1713,
+    "timeMonth": 1913,
+    "timeYear": 1982,
     "dailyMinutesDown": {
-      "2026-07-18": 91,
       "2026-07-19": 61,
       "2026-07-20": 510,
       "2026-07-21": 252,
@@ -88,7 +87,7 @@
       "2026-08-11": 236,
       "2026-08-12": 328,
       "2026-08-13": 254,
-      "2026-08-14": 220
+      "2026-08-14": 221
     }
   },
   {
@@ -418,7 +417,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "97.33%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "92.84%",
@@ -769,17 +768,17 @@
     "slug": "taormina",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "97.43%",
-    "uptimeYear": "98.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "98.40%",
     "time": 2024,
     "timeDay": 1633,
     "timeWeek": 2074,
     "timeMonth": 1860,
     "timeYear": 1943,
     "dailyMinutesDown": {
-      "2026-06-06": 96,
+      "2026-06-06": 152,
       "2026-06-07": 423,
       "2026-06-08": 556,
       "2026-06-09": 651,
@@ -825,8 +824,7 @@
       "2026-08-08": 94,
       "2026-08-09": 32,
       "2026-08-10": 23,
-      "2026-08-13": 62,
-      "2026-08-14": 11
+      "2026-08-13": 62
     }
   },
   {
@@ -836,17 +834,17 @@
     "slug": "unique-real",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "98.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "98.46%",
     "time": 1619,
     "timeDay": 1499,
     "timeWeek": 1470,
     "timeMonth": 1488,
     "timeYear": 1613,
     "dailyMinutesDown": {
-      "2026-06-05": 56,
+      "2026-06-05": 120,
       "2026-06-06": 265,
       "2026-06-07": 382,
       "2026-06-08": 541,
@@ -893,8 +891,7 @@
       "2026-08-08": 79,
       "2026-08-09": 27,
       "2026-08-10": 18,
-      "2026-08-13": 21,
-      "2026-08-14": 4
+      "2026-08-13": 21
     }
   }
 ]
