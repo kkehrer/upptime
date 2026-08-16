@@ -347,17 +347,17 @@
     "url": "https://www.seilers-werbeblog.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.seilers-werbeblog.ch.ico",
     "slug": "seilers-werbeblog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "98.60%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "98.59%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "98.54%",
-    "time": 1486,
-    "timeDay": 1213,
-    "timeWeek": 1426,
-    "timeMonth": 1222,
-    "timeYear": 1477,
+    "time": 1485,
+    "timeDay": 1200,
+    "timeWeek": 1406,
+    "timeMonth": 1220,
+    "timeYear": 1476,
     "dailyMinutesDown": {
       "2026-04-24": 40,
       "2026-04-25": 38,
@@ -404,7 +404,7 @@
       "2026-08-07": 61,
       "2026-08-11": 66,
       "2026-08-14": 45,
-      "2026-08-16": 31
+      "2026-08-16": 32
     }
   },
   {
@@ -412,17 +412,17 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "94.28%",
     "uptimeYear": "98.45%",
-    "time": 3993,
-    "timeDay": 4500,
-    "timeWeek": 3090,
-    "timeMonth": 3348,
-    "timeYear": 3983,
+    "time": 3994,
+    "timeDay": 4008,
+    "timeWeek": 3003,
+    "timeMonth": 3331,
+    "timeYear": 3980,
     "dailyMinutesDown": {
       "2026-06-21": 178,
       "2026-06-22": 305,
@@ -462,7 +462,7 @@
       "2026-08-05": 124,
       "2026-08-07": 38,
       "2026-08-14": 38,
-      "2026-08-16": 3
+      "2026-08-16": 4
     }
   },
   {
