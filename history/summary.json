@@ -52,12 +52,12 @@
     "slug": "cavedelorge",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "91.33%",
+    "uptimeDay": "93.25%",
     "uptimeWeek": "83.31%",
     "uptimeMonth": "86.59%",
     "uptimeYear": "98.88%",
     "time": 2087,
-    "timeDay": 1682,
+    "timeDay": 1573,
     "timeWeek": 1712,
     "timeMonth": 1898,
     "timeYear": 1977,
@@ -349,19 +349,19 @@
     "url": "https://www.seilers-werbeblog.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.seilers-werbeblog.ch.ico",
     "slug": "seilers-werbeblog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.52%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.53%",
     "time": 1489,
     "timeDay": 1088,
     "timeWeek": 1478,
     "timeMonth": 1219,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2026-04-12": 107,
+      "2026-04-12": 34,
       "2026-04-24": 40,
       "2026-04-25": 38,
       "2026-05-01": 48,
@@ -406,7 +406,8 @@
       "2026-08-03": 44,
       "2026-08-07": 61,
       "2026-08-11": 66,
-      "2026-08-14": 45
+      "2026-08-14": 45,
+      "2026-08-16": 10
     }
   },
   {
@@ -414,19 +415,19 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "94.28%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.45%",
     "time": 3992,
     "timeDay": 4753,
     "timeWeek": 2593,
     "timeMonth": 3304,
     "timeYear": 3982,
     "dailyMinutesDown": {
-      "2026-06-21": 354,
+      "2026-06-21": 178,
       "2026-06-22": 305,
       "2026-06-23": 314,
       "2026-06-24": 299,
@@ -463,7 +464,8 @@
       "2026-08-03": 37,
       "2026-08-05": 124,
       "2026-08-07": 38,
-      "2026-08-14": 38
+      "2026-08-14": 38,
+      "2026-08-16": 3
     }
   },
   {
@@ -703,17 +705,17 @@
     "slug": "schmid-reisen",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "97.14%",
-    "uptimeYear": "98.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "98.66%",
     "time": 1133,
     "timeDay": 1099,
     "timeWeek": 1137,
     "timeMonth": 1068,
     "timeYear": 1159,
     "dailyMinutesDown": {
-      "2026-06-10": 76,
+      "2026-06-10": 143,
       "2026-06-11": 1005,
       "2026-06-12": 274,
       "2026-06-13": 496,
@@ -760,8 +762,7 @@
       "2026-08-10": 62,
       "2026-08-12": 16,
       "2026-08-13": 76,
-      "2026-08-14": 18,
-      "2026-08-16": 12
+      "2026-08-14": 18
     }
   },
   {
@@ -771,17 +772,17 @@
     "slug": "taormina",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "98.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "98.40%",
     "time": 1992,
     "timeDay": 1685,
     "timeWeek": 2096,
     "timeMonth": 1851,
     "timeYear": 1942,
     "dailyMinutesDown": {
-      "2026-06-06": 96,
+      "2026-06-06": 152,
       "2026-06-07": 423,
       "2026-06-08": 556,
       "2026-06-09": 651,
@@ -827,8 +828,7 @@
       "2026-08-08": 94,
       "2026-08-09": 32,
       "2026-08-10": 23,
-      "2026-08-13": 62,
-      "2026-08-16": 7
+      "2026-08-13": 62
     }
   },
   {
@@ -838,17 +838,17 @@
     "slug": "unique-real",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.46%",
     "time": 1618,
     "timeDay": 1473,
     "timeWeek": 1475,
     "timeMonth": 1477,
     "timeYear": 1612,
     "dailyMinutesDown": {
-      "2026-06-05": 56,
+      "2026-06-05": 120,
       "2026-06-06": 265,
       "2026-06-07": 382,
       "2026-06-08": 541,
@@ -895,8 +895,7 @@
       "2026-08-08": 79,
       "2026-08-09": 27,
       "2026-08-10": 18,
-      "2026-08-13": 21,
-      "2026-08-16": 2
+      "2026-08-13": 21
     }
   }
 ]
