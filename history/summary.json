@@ -50,19 +50,18 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "91.94%",
-    "uptimeWeek": "83.34%",
-    "uptimeMonth": "86.70%",
-    "uptimeYear": "98.89%",
-    "time": 2082,
-    "timeDay": 1530,
-    "timeWeek": 1709,
-    "timeMonth": 1892,
-    "timeYear": 1975,
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "91.90%",
+    "uptimeWeek": "83.33%",
+    "uptimeMonth": "86.92%",
+    "uptimeYear": "98.91%",
+    "time": 2076,
+    "timeDay": 1470,
+    "timeWeek": 1698,
+    "timeMonth": 1887,
+    "timeYear": 1974,
     "dailyMinutesDown": {
-      "2026-07-23": 97,
       "2026-07-24": 150,
       "2026-07-25": 368,
       "2026-07-26": 192,
@@ -85,7 +84,7 @@
       "2026-08-13": 254,
       "2026-08-14": 243,
       "2026-08-15": 98,
-      "2026-08-16": 45
+      "2026-08-16": 46
     }
   },
   {
@@ -350,16 +349,17 @@
     "slug": "seilers-werbeblog",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.54%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.53%",
     "time": 1486,
     "timeDay": 1213,
     "timeWeek": 1426,
     "timeMonth": 1222,
     "timeYear": 1476,
     "dailyMinutesDown": {
+      "2026-04-12": 34,
       "2026-04-24": 40,
       "2026-04-25": 38,
       "2026-05-01": 48,
@@ -405,7 +405,7 @@
       "2026-08-07": 61,
       "2026-08-11": 66,
       "2026-08-14": 45,
-      "2026-08-16": 32
+      "2026-08-16": 21
     }
   },
   {
@@ -414,18 +414,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "94.27%",
-    "uptimeYear": "98.45%",
+    "uptime": "99.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "94.28%",
+    "uptimeYear": "98.42%",
     "time": 3994,
     "timeDay": 4500,
     "timeWeek": 3090,
     "timeMonth": 3348,
     "timeYear": 3983,
     "dailyMinutesDown": {
-      "2026-06-21": 178,
+      "2026-06-21": 354,
       "2026-06-22": 305,
       "2026-06-23": 314,
       "2026-06-24": 299,
@@ -462,8 +462,7 @@
       "2026-08-03": 37,
       "2026-08-05": 124,
       "2026-08-07": 38,
-      "2026-08-14": 38,
-      "2026-08-16": 4
+      "2026-08-14": 38
     }
   },
   {
