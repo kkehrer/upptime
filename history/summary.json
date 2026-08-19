@@ -4,17 +4,17 @@
     "url": "https://www.bartsch-consulting.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.bartsch-consulting.ch.ico",
     "slug": "bartsch-consulting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.78%",
-    "time": 1403,
-    "timeDay": 1357,
-    "timeWeek": 1309,
-    "timeMonth": 1376,
-    "timeYear": 1475,
+    "time": 1405,
+    "timeDay": 1447,
+    "timeWeek": 1342,
+    "timeMonth": 1381,
+    "timeYear": 1476,
     "dailyMinutesDown": {
       "2025-12-04": 18,
       "2026-01-28": 32,
@@ -43,7 +43,7 @@
       "2026-06-24": 75,
       "2026-07-04": 131,
       "2026-08-08": 17,
-      "2026-08-19": 15
+      "2026-08-19": 17
     }
   },
   {
@@ -90,16 +90,16 @@
     "url": "https://felixadvisory.ch",
     "icon": "https://icons.duckduckgo.com/ip3/felixadvisory.ch.ico",
     "slug": "felix-advisory",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.83%",
     "time": 974,
-    "timeDay": 975,
-    "timeWeek": 866,
-    "timeMonth": 887,
+    "timeDay": 1014,
+    "timeWeek": 893,
+    "timeMonth": 893,
     "timeYear": 967,
     "dailyMinutesDown": {
       "2026-02-18": 64,
@@ -121,7 +121,7 @@
       "2026-06-23": 32,
       "2026-06-24": 70,
       "2026-07-04": 122,
-      "2026-08-19": 10
+      "2026-08-19": 12
     }
   },
   {
@@ -305,16 +305,16 @@
     "url": "https://r2partnersag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/r2partnersag.ch.ico",
     "slug": "r2-partners",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.80%",
-    "time": 1556,
-    "timeDay": 1714,
-    "timeWeek": 1505,
-    "timeMonth": 1446,
+    "time": 1555,
+    "timeDay": 1708,
+    "timeWeek": 1533,
+    "timeMonth": 1454,
     "timeYear": 1546,
     "dailyMinutesDown": {
       "2026-02-18": 67,
@@ -337,7 +337,7 @@
       "2026-06-23": 25,
       "2026-06-24": 65,
       "2026-07-04": 112,
-      "2026-08-19": 6
+      "2026-08-19": 8
     }
   },
   {
@@ -526,17 +526,17 @@
     "url": "https://www.caminada.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.caminada.ch.ico",
     "slug": "caminada",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.87%",
-    "time": 1328,
-    "timeDay": 1424,
-    "timeWeek": 1252,
-    "timeMonth": 1192,
-    "timeYear": 1353,
+    "time": 1329,
+    "timeDay": 1406,
+    "timeWeek": 1271,
+    "timeMonth": 1198,
+    "timeYear": 1354,
     "dailyMinutesDown": {
       "2026-01-28": 18,
       "2026-02-18": 16,
@@ -555,7 +555,7 @@
       "2026-06-21": 16,
       "2026-06-24": 60,
       "2026-07-04": 102,
-      "2026-08-19": 1
+      "2026-08-19": 3
     }
   },
   {
