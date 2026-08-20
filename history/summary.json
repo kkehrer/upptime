@@ -4,16 +4,16 @@
     "url": "https://www.bartsch-consulting.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.bartsch-consulting.ch.ico",
     "slug": "bartsch-consulting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.78%",
-    "time": 1406,
-    "timeDay": 1516,
-    "timeWeek": 1370,
-    "timeMonth": 1394,
+    "time": 1405,
+    "timeDay": 1439,
+    "timeWeek": 1360,
+    "timeMonth": 1390,
     "timeYear": 1475,
     "dailyMinutesDown": {
       "2025-12-04": 18,
@@ -44,7 +44,7 @@
       "2026-07-04": 131,
       "2026-08-08": 17,
       "2026-08-19": 17,
-      "2026-08-20": 15
+      "2026-08-20": 20
     }
   },
   {
@@ -52,16 +52,16 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "88.89%",
-    "uptimeWeek": "90.48%",
-    "uptimeMonth": "89.95%",
+    "uptimeDay": "88.55%",
+    "uptimeWeek": "90.43%",
+    "uptimeMonth": "89.94%",
     "uptimeYear": "99.16%",
-    "time": 2043,
-    "timeDay": 1595,
-    "timeWeek": 1658,
-    "timeMonth": 1831,
+    "time": 2044,
+    "timeDay": 1635,
+    "timeWeek": 1664,
+    "timeMonth": 1832,
     "timeYear": 1959,
     "dailyMinutesDown": {
       "2026-08-01": 436,
@@ -83,7 +83,7 @@
       "2026-08-17": 95,
       "2026-08-18": 69,
       "2026-08-19": 145,
-      "2026-08-20": 15
+      "2026-08-20": 20
     }
   },
   {
@@ -91,16 +91,16 @@
     "url": "https://felixadvisory.ch",
     "icon": "https://icons.duckduckgo.com/ip3/felixadvisory.ch.ico",
     "slug": "felix-advisory",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.83%",
-    "time": 973,
-    "timeDay": 818,
-    "timeWeek": 892,
-    "timeMonth": 885,
+    "time": 971,
+    "timeDay": 876,
+    "timeWeek": 904,
+    "timeMonth": 888,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2026-02-18": 64,
@@ -122,7 +122,7 @@
       "2026-06-23": 32,
       "2026-06-24": 70,
       "2026-07-04": 122,
-      "2026-08-20": 10
+      "2026-08-20": 15
     }
   },
   {
@@ -306,16 +306,16 @@
     "url": "https://r2partnersag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/r2partnersag.ch.ico",
     "slug": "r2-partners",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.80%",
-    "time": 1553,
-    "timeDay": 1474,
-    "timeWeek": 1539,
-    "timeMonth": 1454,
+    "time": 1550,
+    "timeDay": 1530,
+    "timeWeek": 1552,
+    "timeMonth": 1460,
     "timeYear": 1545,
     "dailyMinutesDown": {
       "2026-02-18": 67,
@@ -338,7 +338,7 @@
       "2026-06-23": 25,
       "2026-06-24": 65,
       "2026-07-04": 112,
-      "2026-08-20": 6
+      "2026-08-20": 11
     }
   },
   {
@@ -527,16 +527,16 @@
     "url": "https://www.caminada.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.caminada.ch.ico",
     "slug": "caminada",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.87%",
-    "time": 1330,
-    "timeDay": 1330,
-    "timeWeek": 1300,
-    "timeMonth": 1205,
+    "time": 1329,
+    "timeDay": 1328,
+    "timeWeek": 1303,
+    "timeMonth": 1209,
     "timeYear": 1352,
     "dailyMinutesDown": {
       "2026-01-28": 18,
@@ -556,7 +556,7 @@
       "2026-06-21": 16,
       "2026-06-24": 60,
       "2026-07-04": 102,
-      "2026-08-20": 1
+      "2026-08-20": 6
     }
   },
   {
