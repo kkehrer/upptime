@@ -53,15 +53,15 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "93.67%",
-    "uptimeWeek": "94.04%",
-    "uptimeMonth": "92.72%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "93.93%",
+    "uptimeMonth": "92.69%",
     "uptimeYear": "99.39%",
-    "time": 1996,
-    "timeDay": 1425,
-    "timeWeek": 1643,
+    "time": 1995,
+    "timeDay": 1458,
+    "timeWeek": 1647,
     "timeMonth": 1786,
     "timeYear": 1943,
     "dailyMinutesDown": {
@@ -84,7 +84,7 @@
       "2026-08-20": 110,
       "2026-08-21": 54,
       "2026-08-22": 82,
-      "2026-08-23": 45
+      "2026-08-23": 57
     }
   },
   {
@@ -141,7 +141,7 @@
     "timeDay": 3346,
     "timeWeek": 3623,
     "timeMonth": 2972,
-    "timeYear": 3844,
+    "timeYear": 3843,
     "dailyMinutesDown": {
       "2025-08-26": 44,
       "2025-08-27": 38,
@@ -837,7 +837,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.uniquereal.ch.ico",
     "slug": "unique-real",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "98.53%",
