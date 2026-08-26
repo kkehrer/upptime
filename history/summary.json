@@ -55,9 +55,9 @@
     "slug": "cavedelorge",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "93.80%",
-    "uptimeWeek": "94.31%",
-    "uptimeMonth": "93.32%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "93.28%",
     "uptimeYear": "99.44%",
     "time": 2036,
     "timeDay": 1339,
@@ -84,7 +84,7 @@
       "2026-08-23": 45,
       "2026-08-24": 49,
       "2026-08-25": 89,
-      "2026-08-26": 1
+      "2026-08-26": 21
     }
   },
   {
