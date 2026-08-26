@@ -13,7 +13,7 @@
     "time": 1407,
     "timeDay": 590,
     "timeWeek": 1295,
-    "timeMonth": 1370,
+    "timeMonth": 1362,
     "timeYear": 1475,
     "dailyMinutesDown": {
       "2025-12-04": 18,
@@ -53,17 +53,17 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "93.71%",
-    "uptimeWeek": "94.29%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "94.31%",
     "uptimeMonth": "93.32%",
     "uptimeYear": "99.44%",
-    "time": 2037,
-    "timeDay": 1410,
-    "timeWeek": 1557,
-    "timeMonth": 1761,
-    "timeYear": 1935,
+    "time": 2036,
+    "timeDay": 1339,
+    "timeWeek": 1543,
+    "timeMonth": 1746,
+    "timeYear": 1933,
     "dailyMinutesDown": {
       "2026-08-07": 131,
       "2026-08-08": 313,
@@ -83,7 +83,8 @@
       "2026-08-22": 82,
       "2026-08-23": 45,
       "2026-08-24": 49,
-      "2026-08-25": 91
+      "2026-08-25": 89,
+      "2026-08-26": 1
     }
   },
   {
@@ -100,7 +101,7 @@
     "time": 967,
     "timeDay": 909,
     "timeWeek": 847,
-    "timeMonth": 868,
+    "timeMonth": 846,
     "timeYear": 960,
     "dailyMinutesDown": {
       "2026-02-18": 64,
@@ -139,10 +140,9 @@
     "time": 3910,
     "timeDay": 1739,
     "timeWeek": 3545,
-    "timeMonth": 2955,
+    "timeMonth": 2989,
     "timeYear": 3796,
     "dailyMinutesDown": {
-      "2025-08-26": 44,
       "2025-08-27": 38,
       "2025-08-28": 21,
       "2025-08-30": 26,
@@ -243,7 +243,7 @@
     "time": 1032,
     "timeDay": 982,
     "timeWeek": 887,
-    "timeMonth": 912,
+    "timeMonth": 910,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2025-11-18": 185,
@@ -296,7 +296,7 @@
     "time": 694,
     "timeDay": 1043,
     "timeWeek": 845,
-    "timeMonth": 814,
+    "timeMonth": 812,
     "timeYear": 694,
     "dailyMinutesDown": {}
   },
@@ -314,7 +314,7 @@
     "time": 1547,
     "timeDay": 1672,
     "timeWeek": 1432,
-    "timeMonth": 1467,
+    "timeMonth": 1450,
     "timeYear": 1545,
     "dailyMinutesDown": {
       "2026-02-18": 67,
@@ -353,7 +353,7 @@
     "time": 1472,
     "timeDay": 1185,
     "timeWeek": 1076,
-    "timeMonth": 1224,
+    "timeMonth": 1220,
     "timeYear": 1463,
     "dailyMinutesDown": {
       "2026-05-01": 48,
@@ -418,7 +418,7 @@
     "time": 3998,
     "timeDay": 5462,
     "timeWeek": 4125,
-    "timeMonth": 3945,
+    "timeMonth": 3918,
     "timeYear": 3996,
     "dailyMinutesDown": {
       "2026-06-21": 137,
@@ -472,12 +472,12 @@
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 2634,
     "timeDay": 1782,
     "timeWeek": 1816,
-    "timeMonth": 2019,
+    "timeMonth": 1899,
     "timeYear": 2044,
     "dailyMinutesDown": {
       "2025-08-31": 28,
@@ -514,7 +514,7 @@
     "time": 664,
     "timeDay": 400,
     "timeWeek": 419,
-    "timeMonth": 571,
+    "timeMonth": 546,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -535,7 +535,7 @@
     "time": 1317,
     "timeDay": 1360,
     "timeWeek": 1253,
-    "timeMonth": 1226,
+    "timeMonth": 1219,
     "timeYear": 1352,
     "dailyMinutesDown": {
       "2026-01-28": 18,
@@ -571,7 +571,7 @@
     "time": 1541,
     "timeDay": 1198,
     "timeWeek": 1407,
-    "timeMonth": 1445,
+    "timeMonth": 1443,
     "timeYear": 1503,
     "dailyMinutesDown": {
       "2026-06-16": 219,
@@ -641,7 +641,7 @@
     "time": 1612,
     "timeDay": 1189,
     "timeWeek": 1458,
-    "timeMonth": 1332,
+    "timeMonth": 1327,
     "timeYear": 1562,
     "dailyMinutesDown": {
       "2026-06-16": 205,
@@ -711,7 +711,7 @@
     "time": 1121,
     "timeDay": 913,
     "timeWeek": 966,
-    "timeMonth": 1071,
+    "timeMonth": 1070,
     "timeYear": 1157,
     "dailyMinutesDown": {
       "2026-06-11": 1005,
@@ -780,7 +780,7 @@
     "time": 2012,
     "timeDay": 1931,
     "timeWeek": 1735,
-    "timeMonth": 1901,
+    "timeMonth": 1900,
     "timeYear": 1941,
     "dailyMinutesDown": {
       "2026-06-06": 96,
@@ -847,7 +847,7 @@
     "time": 1618,
     "timeDay": 1369,
     "timeWeek": 1482,
-    "timeMonth": 1487,
+    "timeMonth": 1486,
     "timeYear": 1611,
     "dailyMinutesDown": {
       "2026-06-05": 56,
