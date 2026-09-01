@@ -53,19 +53,19 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "91.00%",
-    "uptimeWeek": "93.85%",
-    "uptimeMonth": "92.81%",
-    "uptimeYear": "99.40%",
-    "time": 2000,
-    "timeDay": 1633,
-    "timeWeek": 1726,
-    "timeMonth": 1710,
-    "timeYear": 1926,
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "99.41%",
+    "time": 1997,
+    "timeDay": 1560,
+    "timeWeek": 1712,
+    "timeMonth": 1714,
+    "timeYear": 1925,
     "dailyMinutesDown": {
-      "2026-08-08": 103,
+      "2026-08-08": 52,
       "2026-08-09": 151,
       "2026-08-10": 349,
       "2026-08-11": 236,
@@ -781,10 +781,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.taormina-law.ch.ico",
     "slug": "taormina",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "98.38%",
+    "uptime": "99.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.41%",
     "uptimeYear": "98.39%",
     "time": 2013,
     "timeDay": 1446,
@@ -792,7 +792,7 @@
     "timeMonth": 1933,
     "timeYear": 1943,
     "dailyMinutesDown": {
-      "2026-06-07": 397,
+      "2026-06-07": 423,
       "2026-06-08": 556,
       "2026-06-09": 651,
       "2026-06-10": 527,
@@ -839,8 +839,7 @@
       "2026-08-10": 23,
       "2026-08-13": 62,
       "2026-08-17": 27,
-      "2026-08-27": 180,
-      "2026-09-01": 11
+      "2026-08-27": 180
     }
   },
   {
@@ -850,9 +849,9 @@
     "slug": "unique-real",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "98.45%",
     "time": 1620,
     "timeDay": 1342,
@@ -860,7 +859,7 @@
     "timeMonth": 1480,
     "timeYear": 1609,
     "dailyMinutesDown": {
-      "2026-06-06": 224,
+      "2026-06-06": 265,
       "2026-06-07": 382,
       "2026-06-08": 541,
       "2026-06-09": 625,
@@ -908,8 +907,7 @@
       "2026-08-10": 18,
       "2026-08-13": 21,
       "2026-08-17": 24,
-      "2026-08-27": 175,
-      "2026-09-01": 6
+      "2026-08-27": 175
     }
   }
 ]
