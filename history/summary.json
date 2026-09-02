@@ -13,7 +13,7 @@
     "time": 1401,
     "timeDay": 0,
     "timeWeek": 522,
-    "timeMonth": 1209,
+    "timeMonth": 1201,
     "timeYear": 1467,
     "dailyMinutesDown": {
       "2025-12-04": 18,
@@ -56,13 +56,13 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "90.42%",
-    "uptimeWeek": "93.64%",
+    "uptimeWeek": "93.87%",
     "uptimeMonth": "92.82%",
     "uptimeYear": "99.40%",
     "time": 1996,
     "timeDay": 1629,
-    "timeWeek": 1776,
-    "timeMonth": 1710,
+    "timeWeek": 1753,
+    "timeMonth": 1709,
     "timeYear": 1926,
     "dailyMinutesDown": {
       "2026-08-09": 151,
@@ -104,7 +104,7 @@
     "time": 968,
     "timeDay": 0,
     "timeWeek": 856,
-    "timeMonth": 844,
+    "timeMonth": 846,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2026-02-18": 64,
@@ -143,7 +143,7 @@
     "time": 3909,
     "timeDay": 4468,
     "timeWeek": 3344,
-    "timeMonth": 3033,
+    "timeMonth": 3009,
     "timeYear": 3710,
     "dailyMinutesDown": {
       "2025-09-03": 36,
@@ -243,7 +243,7 @@
     "time": 1042,
     "timeDay": 0,
     "timeWeek": 1533,
-    "timeMonth": 1018,
+    "timeMonth": 1016,
     "timeYear": 1044,
     "dailyMinutesDown": {
       "2025-11-18": 185,
@@ -296,7 +296,7 @@
     "time": 707,
     "timeDay": 0,
     "timeWeek": 858,
-    "timeMonth": 831,
+    "timeMonth": 830,
     "timeYear": 707,
     "dailyMinutesDown": {}
   },
@@ -314,7 +314,7 @@
     "time": 1548,
     "timeDay": 0,
     "timeWeek": 1555,
-    "timeMonth": 1464,
+    "timeMonth": 1465,
     "timeYear": 1548,
     "dailyMinutesDown": {
       "2026-02-18": 67,
@@ -353,7 +353,7 @@
     "time": 1469,
     "timeDay": 1245,
     "timeWeek": 1288,
-    "timeMonth": 1242,
+    "timeMonth": 1245,
     "timeYear": 1457,
     "dailyMinutesDown": {
       "2026-05-06": 80,
@@ -417,7 +417,7 @@
     "time": 4013,
     "timeDay": 1825,
     "timeWeek": 4715,
-    "timeMonth": 4073,
+    "timeMonth": 4061,
     "timeYear": 3979,
     "dailyMinutesDown": {
       "2026-06-21": 33,
@@ -478,7 +478,7 @@
     "time": 2612,
     "timeDay": 0,
     "timeWeek": 2298,
-    "timeMonth": 1906,
+    "timeMonth": 1919,
     "timeYear": 2051,
     "dailyMinutesDown": {
       "2025-09-03": 16,
@@ -514,7 +514,7 @@
     "time": 662,
     "timeDay": 0,
     "timeWeek": 528,
-    "timeMonth": 432,
+    "timeMonth": 437,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -535,7 +535,7 @@
     "time": 1315,
     "timeDay": 0,
     "timeWeek": 1179,
-    "timeMonth": 1211,
+    "timeMonth": 1210,
     "timeYear": 1352,
     "dailyMinutesDown": {
       "2026-01-28": 18,
@@ -571,7 +571,7 @@
     "time": 1544,
     "timeDay": 2267,
     "timeWeek": 1698,
-    "timeMonth": 1486,
+    "timeMonth": 1489,
     "timeYear": 1506,
     "dailyMinutesDown": {
       "2026-06-17": 46,
@@ -719,7 +719,7 @@
     "time": 1123,
     "timeDay": 2167,
     "timeWeek": 1167,
-    "timeMonth": 1084,
+    "timeMonth": 1083,
     "timeYear": 1160,
     "dailyMinutesDown": {
       "2026-06-12": 274,
@@ -782,18 +782,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.taormina-law.ch.ico",
     "slug": "taormina",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.38%",
+    "uptime": "99.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.41%",
     "uptimeYear": "98.39%",
     "time": 2014,
     "timeDay": 1589,
     "timeWeek": 1956,
-    "timeMonth": 1930,
+    "timeMonth": 1876,
     "timeYear": 1944,
     "dailyMinutesDown": {
-      "2026-06-07": 397,
+      "2026-06-07": 423,
       "2026-06-08": 556,
       "2026-06-09": 651,
       "2026-06-10": 527,
@@ -840,8 +840,7 @@
       "2026-08-10": 23,
       "2026-08-13": 62,
       "2026-08-17": 27,
-      "2026-08-27": 180,
-      "2026-09-01": 12
+      "2026-08-27": 180
     }
   },
   {
@@ -851,9 +850,9 @@
     "slug": "unique-real",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "98.45%",
     "time": 1620,
     "timeDay": 1255,
@@ -861,7 +860,7 @@
     "timeMonth": 1479,
     "timeYear": 1609,
     "dailyMinutesDown": {
-      "2026-06-06": 224,
+      "2026-06-06": 265,
       "2026-06-07": 382,
       "2026-06-08": 541,
       "2026-06-09": 625,
@@ -909,8 +908,7 @@
       "2026-08-10": 18,
       "2026-08-13": 21,
       "2026-08-17": 24,
-      "2026-08-27": 175,
-      "2026-09-01": 5
+      "2026-08-27": 175
     }
   }
 ]
