@@ -55,15 +55,15 @@
     "slug": "cavedelorge",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "95.35%",
-    "uptimeMonth": "92.77%",
-    "uptimeYear": "99.40%",
-    "time": 1973,
-    "timeDay": 1553,
-    "timeWeek": 1623,
-    "timeMonth": 1704,
-    "timeYear": 1921,
+    "uptimeDay": "88.01%",
+    "uptimeWeek": "95.10%",
+    "uptimeMonth": "92.71%",
+    "uptimeYear": "99.39%",
+    "time": 1972,
+    "timeDay": 1531,
+    "timeWeek": 1616,
+    "timeMonth": 1706,
+    "timeYear": 1920,
     "dailyMinutesDown": {
       "2026-08-09": 19,
       "2026-08-10": 349,
@@ -89,7 +89,7 @@
       "2026-09-01": 137,
       "2026-09-02": 32,
       "2026-09-03": 138,
-      "2026-09-04": 9
+      "2026-09-04": 35
     }
   },
   {
