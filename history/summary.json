@@ -53,16 +53,16 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "94.61%",
-    "uptimeMonth": "92.99%",
-    "uptimeYear": "99.42%",
-    "time": 2008,
-    "timeDay": 1623,
-    "timeWeek": 1596,
-    "timeMonth": 1675,
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "94.52%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "99.41%",
+    "time": 2007,
+    "timeDay": 1748,
+    "timeWeek": 1605,
+    "timeMonth": 1677,
     "timeYear": 1912,
     "dailyMinutesDown": {
       "2026-08-10": 194,
@@ -89,7 +89,7 @@
       "2026-09-02": 32,
       "2026-09-03": 138,
       "2026-09-04": 62,
-      "2026-09-05": 23
+      "2026-09-05": 32
     }
   },
   {
@@ -347,16 +347,17 @@
     "slug": "seilers-werbeblog",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.56%",
     "time": 1488,
     "timeDay": 1305,
     "timeWeek": 1357,
     "timeMonth": 1263,
     "timeYear": 1453,
     "dailyMinutesDown": {
+      "2026-06-02": 65,
       "2026-06-03": 250,
       "2026-06-04": 140,
       "2026-06-05": 309,
@@ -399,8 +400,7 @@
       "2026-08-25": 27,
       "2026-08-26": 85,
       "2026-09-01": 69,
-      "2026-09-03": 91,
-      "2026-09-05": 5
+      "2026-09-03": 91
     }
   },
   {
