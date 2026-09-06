@@ -54,19 +54,19 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "94.49%",
-    "uptimeMonth": "92.96%",
-    "uptimeYear": "99.41%",
-    "time": 2007,
-    "timeDay": 1590,
-    "timeWeek": 1641,
-    "timeMonth": 1678,
-    "timeYear": 1912,
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "93.01%",
+    "uptimeYear": "99.42%",
+    "time": 2005,
+    "timeDay": 1542,
+    "timeWeek": 1634,
+    "timeMonth": 1675,
+    "timeYear": 1911,
     "dailyMinutesDown": {
-      "2026-08-10": 173,
+      "2026-08-10": 140,
       "2026-08-11": 236,
       "2026-08-12": 328,
       "2026-08-13": 254,
@@ -91,7 +91,7 @@
       "2026-09-03": 138,
       "2026-09-04": 62,
       "2026-09-05": 40,
-      "2026-09-06": 19
+      "2026-09-06": 29
     }
   },
   {
@@ -101,9 +101,9 @@
     "slug": "felix-advisory",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.83%",
     "time": 969,
     "timeDay": 795,
@@ -130,8 +130,7 @@
       "2026-06-23": 32,
       "2026-06-24": 70,
       "2026-07-04": 122,
-      "2026-08-20": 15,
-      "2026-09-06": 12
+      "2026-08-20": 15
     }
   },
   {
@@ -311,9 +310,9 @@
     "slug": "r2-partners",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 1551,
     "timeDay": 1372,
@@ -340,8 +339,7 @@
       "2026-06-21": 21,
       "2026-06-23": 25,
       "2026-06-24": 65,
-      "2026-07-04": 112,
-      "2026-09-06": 7
+      "2026-07-04": 112
     }
   },
   {
@@ -349,19 +347,18 @@
     "url": "https://www.seilers-werbeblog.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.seilers-werbeblog.ch.ico",
     "slug": "seilers-werbeblog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.56%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.57%",
     "time": 1485,
     "timeDay": 1152,
     "timeWeek": 1252,
     "timeMonth": 1253,
     "timeYear": 1451,
     "dailyMinutesDown": {
-      "2026-06-02": 65,
       "2026-06-03": 250,
       "2026-06-04": 140,
       "2026-06-05": 309,
@@ -404,7 +401,8 @@
       "2026-08-25": 27,
       "2026-08-26": 85,
       "2026-09-01": 69,
-      "2026-09-03": 91
+      "2026-09-03": 91,
+      "2026-09-06": 3
     }
   },
   {
@@ -531,8 +529,8 @@
     "slug": "caminada",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1314,
@@ -557,8 +555,7 @@
       "2026-06-16": 56,
       "2026-06-21": 16,
       "2026-06-24": 60,
-      "2026-07-04": 102,
-      "2026-09-06": 2
+      "2026-07-04": 102
     }
   },
   {
