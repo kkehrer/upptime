@@ -54,17 +54,17 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "94.60%",
-    "uptimeMonth": "93.01%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "92.59%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "92.94%",
+    "uptimeYear": "99.41%",
     "time": 1997,
-    "timeDay": 1548,
-    "timeWeek": 1624,
-    "timeMonth": 1663,
-    "timeYear": 1907,
+    "timeDay": 1568,
+    "timeWeek": 1629,
+    "timeMonth": 1664,
+    "timeYear": 1908,
     "dailyMinutesDown": {
       "2026-08-10": 111,
       "2026-08-11": 236,
@@ -91,7 +91,7 @@
       "2026-09-03": 138,
       "2026-09-04": 62,
       "2026-09-05": 40,
-      "2026-09-06": 58
+      "2026-09-06": 90
     }
   },
   {
