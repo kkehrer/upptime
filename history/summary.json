@@ -6,7 +6,7 @@
     "slug": "bartsch-consulting",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.86%",
+    "uptimeDay": "98.90%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.77%",
@@ -54,14 +54,14 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "95.09%",
-    "uptimeWeek": "94.28%",
-    "uptimeMonth": "93.06%",
+    "uptimeDay": "93.88%",
+    "uptimeWeek": "94.11%",
+    "uptimeMonth": "93.02%",
     "uptimeYear": "99.42%",
-    "time": 1995,
-    "timeDay": 1426,
+    "time": 1994,
+    "timeDay": 1438,
     "timeWeek": 1597,
     "timeMonth": 1661,
     "timeYear": 1907,
@@ -92,7 +92,7 @@
       "2026-09-04": 62,
       "2026-09-05": 40,
       "2026-09-06": 90,
-      "2026-09-07": 1
+      "2026-09-07": 18
     }
   },
   {
