@@ -55,17 +55,17 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "82.16%",
-    "uptimeWeek": "93.13%",
-    "uptimeMonth": "93.22%",
+    "uptimeDay": "81.46%",
+    "uptimeWeek": "93.03%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 1961,
-    "timeDay": 1354,
-    "timeWeek": 1531,
-    "timeMonth": 1651,
-    "timeYear": 1894,
+    "timeDay": 1396,
+    "timeWeek": 1536,
+    "timeMonth": 1652,
+    "timeYear": 1895,
     "dailyMinutesDown": {
       "2026-08-12": 189,
       "2026-08-13": 254,
@@ -93,7 +93,7 @@
       "2026-09-06": 90,
       "2026-09-07": 62,
       "2026-09-08": 76,
-      "2026-09-09": 228
+      "2026-09-09": 238
     }
   },
   {
@@ -715,10 +715,10 @@
     "slug": "schmid-reisen",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "71.93%",
-    "uptimeWeek": "95.62%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "98.69%",
+    "uptimeDay": "71.20%",
+    "uptimeWeek": "95.52%",
+    "uptimeMonth": "96.67%",
+    "uptimeYear": "98.68%",
     "time": 1128,
     "timeDay": 1259,
     "timeWeek": 1167,
@@ -777,7 +777,7 @@
       "2026-09-01": 35,
       "2026-09-03": 37,
       "2026-09-08": 37,
-      "2026-09-09": 367
+      "2026-09-09": 378
     }
   },
   {
