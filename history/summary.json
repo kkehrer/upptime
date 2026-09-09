@@ -269,17 +269,17 @@
     "url": "https://licht.kaikehrer.ch",
     "icon": "https://icons.duckduckgo.com/ip3/licht.kaikehrer.ch.ico",
     "slug": "licht",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
-    "time": 1051,
-    "timeDay": 19720,
-    "timeWeek": 3574,
-    "timeMonth": 1456,
-    "timeYear": 1051,
+    "time": 1050,
+    "timeDay": 10331,
+    "timeWeek": 3245,
+    "timeMonth": 1439,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2025-11-18": 171,
       "2026-01-26": 78,
@@ -287,7 +287,7 @@
       "2026-03-09": 47,
       "2026-04-09": 39,
       "2026-07-06": 168,
-      "2026-09-09": 3
+      "2026-09-09": 16
     }
   },
   {
