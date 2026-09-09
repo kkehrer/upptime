@@ -56,11 +56,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "94.28%",
-    "uptimeWeek": "94.99%",
-    "uptimeMonth": "93.17%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.82%",
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "94.56%",
+    "uptimeMonth": "93.07%",
+    "uptimeYear": "99.42%",
     "time": 1973,
     "timeDay": 1339,
     "timeWeek": 1560,
@@ -94,7 +94,7 @@
       "2026-09-06": 90,
       "2026-09-07": 62,
       "2026-09-08": 76,
-      "2026-09-09": 6
+      "2026-09-09": 50
     }
   },
   {
@@ -353,10 +353,10 @@
     "slug": "seilers-werbeblog",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.57%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.56%",
     "time": 1484,
     "timeDay": 0,
     "timeWeek": 1226,
@@ -406,7 +406,7 @@
       "2026-08-26": 85,
       "2026-09-01": 69,
       "2026-09-03": 91,
-      "2026-09-09": 7,
+      "2026-09-09": 50,
       "2026-09-08": 3
     }
   },
@@ -417,10 +417,10 @@
     "slug": "studio-pm",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "98.47%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "98.46%",
     "time": 4019,
     "timeDay": 0,
     "timeWeek": 5006,
@@ -469,7 +469,7 @@
       "2026-08-26": 61,
       "2026-09-01": 39,
       "2026-09-03": 78,
-      "2026-09-09": 3
+      "2026-09-09": 46
     }
   },
   {
