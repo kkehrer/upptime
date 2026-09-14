@@ -4,12 +4,12 @@
     "url": "https://www.bartsch-consulting.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.bartsch-consulting.ch.ico",
     "slug": "bartsch-consulting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.76%",
     "time": 1385,
     "timeDay": 501,
     "timeWeek": 499,
@@ -47,7 +47,8 @@
       "2026-08-20": 20,
       "2026-08-23": 17,
       "2026-09-06": 16,
-      "2026-09-08": 26
+      "2026-09-08": 26,
+      "2026-09-14": 15
     }
   },
   {
@@ -105,11 +106,11 @@
     "url": "https://felixadvisory.ch",
     "icon": "https://icons.duckduckgo.com/ip3/felixadvisory.ch.ico",
     "slug": "felix-advisory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.82%",
     "time": 971,
     "timeDay": 2036,
@@ -137,7 +138,8 @@
       "2026-06-24": 70,
       "2026-07-04": 122,
       "2026-08-20": 15,
-      "2026-09-08": 21
+      "2026-09-08": 21,
+      "2026-09-14": 11
     }
   },
   {
@@ -155,7 +157,7 @@
     "timeDay": 2698,
     "timeWeek": 3653,
     "timeMonth": 3465,
-    "timeYear": 3606,
+    "timeYear": 3593,
     "dailyMinutesDown": {
       "2025-09-17": 21,
       "2025-10-12": 34,
@@ -318,11 +320,11 @@
     "url": "https://r2partnersag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/r2partnersag.ch.ico",
     "slug": "r2-partners",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.79%",
     "time": 1545,
     "timeDay": 1376,
@@ -350,7 +352,8 @@
       "2026-06-23": 25,
       "2026-06-24": 65,
       "2026-07-04": 112,
-      "2026-09-08": 16
+      "2026-09-08": 16,
+      "2026-09-14": 6
     }
   },
   {
@@ -360,17 +363,17 @@
     "slug": "seilers-werbeblog",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "92.95%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "98.39%",
-    "uptimeYear": "98.60%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.59%",
     "time": 1473,
     "timeDay": 1154,
     "timeWeek": 1148,
     "timeMonth": 1191,
     "timeYear": 1440,
     "dailyMinutesDown": {
-      "2026-06-05": 233,
+      "2026-06-05": 309,
       "2026-06-06": 347,
       "2026-06-07": 657,
       "2026-06-08": 206,
@@ -416,7 +419,7 @@
       "2026-09-10": 46,
       "2026-09-11": 48,
       "2026-09-13": 45,
-      "2026-09-14": 56
+      "2026-09-14": 45
     }
   },
   {
@@ -426,17 +429,17 @@
     "slug": "studio-pm",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "94.36%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.49%",
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.48%",
     "time": 4014,
     "timeDay": 3831,
     "timeWeek": 4017,
     "timeMonth": 4339,
     "timeYear": 3980,
     "dailyMinutesDown": {
-      "2026-06-23": 137,
+      "2026-06-23": 218,
       "2026-06-24": 299,
       "2026-06-25": 171,
       "2026-06-26": 275,
@@ -480,7 +483,7 @@
       "2026-09-09": 92,
       "2026-09-10": 39,
       "2026-09-13": 39,
-      "2026-09-14": 43
+      "2026-09-14": 39
     }
   },
   {
@@ -544,10 +547,10 @@
     "url": "https://www.caminada.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.caminada.ch.ico",
     "slug": "caminada",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.87%",
     "time": 1313,
@@ -573,7 +576,8 @@
       "2026-06-21": 16,
       "2026-06-24": 60,
       "2026-07-04": 102,
-      "2026-09-08": 11
+      "2026-09-08": 11,
+      "2026-09-14": 1
     }
   },
   {
