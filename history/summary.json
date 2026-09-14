@@ -56,19 +56,18 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "90.28%",
-    "uptimeWeek": "92.32%",
-    "uptimeMonth": "93.29%",
+    "uptimeDay": "90.21%",
+    "uptimeWeek": "92.31%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.43%",
-    "time": 1980,
-    "timeDay": 1662,
+    "time": 1978,
+    "timeDay": 1558,
     "timeWeek": 1651,
-    "timeMonth": 1643,
-    "timeYear": 1888,
+    "timeMonth": 1641,
+    "timeYear": 1887,
     "dailyMinutesDown": {
-      "2026-08-13": 19,
       "2026-08-14": 243,
       "2026-08-15": 98,
       "2026-08-16": 84,
@@ -98,7 +97,7 @@
       "2026-09-11": 77,
       "2026-09-12": 37,
       "2026-09-13": 52,
-      "2026-09-14": 88
+      "2026-09-14": 89
     }
   },
   {
@@ -108,9 +107,9 @@
     "slug": "felix-advisory",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.82%",
     "time": 971,
     "timeDay": 1353,
@@ -138,8 +137,7 @@
       "2026-06-24": 70,
       "2026-07-04": 122,
       "2026-08-20": 15,
-      "2026-09-08": 21,
-      "2026-09-14": 12
+      "2026-09-08": 21
     }
   },
   {
@@ -249,7 +247,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kaikehrer.ch.ico",
     "slug": "kaikehrer",
     "status": "up",
-    "uptime": "96.08%",
+    "uptime": "96.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -322,9 +320,9 @@
     "slug": "r2-partners",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.79%",
     "time": 1546,
     "timeDay": 1446,
@@ -352,8 +350,7 @@
       "2026-06-23": 25,
       "2026-06-24": 65,
       "2026-07-04": 112,
-      "2026-09-08": 16,
-      "2026-09-14": 7
+      "2026-09-08": 16
     }
   },
   {
@@ -549,8 +546,8 @@
     "slug": "caminada",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.87%",
     "time": 1313,
@@ -576,8 +573,7 @@
       "2026-06-21": 16,
       "2026-06-24": 60,
       "2026-07-04": 102,
-      "2026-09-08": 11,
-      "2026-09-14": 2
+      "2026-09-08": 11
     }
   },
   {
@@ -587,7 +583,7 @@
     "slug": "kammerchor-zo",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "92.60%",
+    "uptimeDay": "93.52%",
     "uptimeWeek": "94.15%",
     "uptimeMonth": "96.81%",
     "uptimeYear": "99.16%",
@@ -656,7 +652,7 @@
     "slug": "peyer-marking",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "94.21%",
+    "uptimeDay": "94.80%",
     "uptimeWeek": "95.28%",
     "uptimeMonth": "96.11%",
     "uptimeYear": "99.15%",
