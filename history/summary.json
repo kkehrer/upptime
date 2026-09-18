@@ -57,19 +57,19 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "96.86%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "96.82%",
     "uptimeWeek": "96.28%",
     "uptimeMonth": "94.16%",
     "uptimeYear": "99.46%",
-    "time": 1953,
-    "timeDay": 1955,
-    "timeWeek": 1749,
-    "timeMonth": 1664,
-    "timeYear": 1886,
+    "time": 1952,
+    "timeDay": 1843,
+    "timeWeek": 1730,
+    "timeMonth": 1660,
+    "timeYear": 1885,
     "dailyMinutesDown": {
-      "2026-08-15": 70,
+      "2026-08-15": 44,
       "2026-08-16": 84,
       "2026-08-17": 95,
       "2026-08-18": 69,
@@ -100,7 +100,7 @@
       "2026-09-14": 113,
       "2026-09-15": 39,
       "2026-09-16": 50,
-      "2026-09-18": 45
+      "2026-09-18": 46
     }
   },
   {
@@ -364,16 +364,17 @@
     "slug": "seilers-werbeblog",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "98.53%",
-    "uptimeYear": "98.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "98.56%",
+    "uptimeYear": "98.62%",
     "time": 1466,
     "timeDay": 1215,
     "timeWeek": 1168,
     "timeMonth": 1193,
     "timeYear": 1437,
     "dailyMinutesDown": {
+      "2026-06-05": 59,
       "2026-06-06": 347,
       "2026-06-07": 657,
       "2026-06-08": 206,
@@ -421,8 +422,7 @@
       "2026-09-13": 45,
       "2026-09-14": 45,
       "2026-09-15": 51,
-      "2026-09-16": 18,
-      "2026-09-18": 11
+      "2026-09-16": 18
     }
   },
   {
@@ -432,17 +432,17 @@
     "slug": "studio-pm",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "98.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "98.48%",
     "time": 4037,
     "timeDay": 4771,
     "timeWeek": 5368,
     "timeMonth": 4684,
     "timeYear": 4000,
     "dailyMinutesDown": {
-      "2026-06-23": 137,
+      "2026-06-23": 218,
       "2026-06-24": 299,
       "2026-06-25": 171,
       "2026-06-26": 275,
@@ -486,8 +486,7 @@
       "2026-09-09": 92,
       "2026-09-10": 39,
       "2026-09-13": 39,
-      "2026-09-14": 39,
-      "2026-09-18": 4
+      "2026-09-14": 39
     }
   },
   {
