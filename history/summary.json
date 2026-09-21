@@ -57,16 +57,16 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "94.72%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "94.70%",
     "uptimeYear": "99.46%",
-    "time": 1936,
-    "timeDay": 1602,
-    "timeWeek": 1803,
-    "timeMonth": 1660,
+    "time": 1935,
+    "timeDay": 1671,
+    "timeWeek": 1808,
+    "timeMonth": 1661,
     "timeYear": 1884,
     "dailyMinutesDown": {
       "2026-08-15": 18,
@@ -102,7 +102,7 @@
       "2026-09-16": 50,
       "2026-09-18": 45,
       "2026-09-19": 18,
-      "2026-09-21": 5
+      "2026-09-21": 15
     }
   },
   {
@@ -151,16 +151,16 @@
     "url": "https://goldhahn.swiss",
     "icon": "https://icons.duckduckgo.com/ip3/goldhahn.swiss.ico",
     "slug": "goldhahn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "97.00%",
-    "time": 3911,
-    "timeDay": 3365,
-    "timeWeek": 2634,
-    "timeMonth": 3399,
+    "time": 3908,
+    "timeDay": 3466,
+    "timeWeek": 2767,
+    "timeMonth": 3404,
     "timeYear": 3521,
     "dailyMinutesDown": {
       "2025-10-12": 34,
@@ -244,7 +244,7 @@
       "2026-09-10": 53,
       "2026-09-11": 7,
       "2026-09-14": 52,
-      "2026-09-21": 1
+      "2026-09-21": 10
     }
   },
   {
