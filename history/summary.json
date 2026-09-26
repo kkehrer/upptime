@@ -255,16 +255,16 @@
     "url": "https://kaikehrer.ch",
     "icon": "https://icons.duckduckgo.com/ip3/kaikehrer.ch.ico",
     "slug": "kaikehrer",
-    "status": "down",
+    "status": "up",
     "uptime": "96.15%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.87%",
-    "time": 1081,
-    "timeDay": 19732,
-    "timeWeek": 3599,
-    "timeMonth": 1710,
+    "time": 1083,
+    "timeDay": 10441,
+    "timeWeek": 3293,
+    "timeMonth": 1691,
     "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-11-18": 185,
@@ -276,7 +276,7 @@
       "2026-04-20": 16,
       "2026-05-04": 95,
       "2026-07-06": 169,
-      "2026-09-26": 3
+      "2026-09-26": 5
     }
   },
   {
@@ -284,16 +284,16 @@
     "url": "https://licht.kaikehrer.ch",
     "icon": "https://icons.duckduckgo.com/ip3/licht.kaikehrer.ch.ico",
     "slug": "licht",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
     "time": 1093,
-    "timeDay": 19337,
-    "timeWeek": 3461,
-    "timeMonth": 2064,
+    "timeDay": 10207,
+    "timeWeek": 3163,
+    "timeMonth": 2033,
     "timeYear": 1093,
     "dailyMinutesDown": {
       "2025-11-18": 171,
@@ -303,7 +303,7 @@
       "2026-04-09": 39,
       "2026-07-06": 168,
       "2026-09-09": 16,
-      "2026-09-26": 2
+      "2026-09-26": 4
     }
   },
   {
@@ -311,19 +311,19 @@
     "url": "https://licht2.kaikehrer.ch",
     "icon": "https://icons.duckduckgo.com/ip3/licht2.kaikehrer.ch.ico",
     "slug": "licht2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 928,
-    "timeDay": 19832,
-    "timeWeek": 3459,
-    "timeMonth": 1495,
-    "timeYear": 928,
+    "time": 929,
+    "timeDay": 10429,
+    "timeWeek": 3155,
+    "timeMonth": 1479,
+    "timeYear": 929,
     "dailyMinutesDown": {
-      "2026-09-26": 1
+      "2026-09-26": 3
     }
   },
   {
@@ -376,7 +376,7 @@
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.80%",
+    "uptimeMonth": "98.81%",
     "uptimeYear": "98.62%",
     "time": 1458,
     "timeDay": 1040,
@@ -444,7 +444,7 @@
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.24%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "98.48%",
     "time": 4047,
     "timeDay": 8855,
