@@ -59,19 +59,19 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "95.36%",
     "uptimeYear": "99.46%",
-    "time": 1916,
-    "timeDay": 2091,
-    "timeWeek": 1891,
-    "timeMonth": 1707,
-    "timeYear": 1883,
+    "time": 1915,
+    "timeDay": 1261,
+    "timeWeek": 1854,
+    "timeMonth": 1703,
+    "timeYear": 1882,
     "dailyMinutesDown": {
-      "2026-08-16": 39,
+      "2026-08-16": 22,
       "2026-08-17": 95,
       "2026-08-18": 69,
       "2026-08-19": 145,
@@ -105,7 +105,8 @@
       "2026-09-19": 18,
       "2026-09-21": 25,
       "2026-09-23": 16,
-      "2026-09-24": 45
+      "2026-09-24": 45,
+      "2026-09-26": 1
     }
   },
   {
@@ -115,9 +116,9 @@
     "slug": "felix-advisory",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.82%",
     "time": 972,
     "timeDay": 783,
@@ -146,8 +147,7 @@
       "2026-07-04": 122,
       "2026-08-20": 15,
       "2026-09-08": 21,
-      "2026-09-15": 15,
-      "2026-09-26": 12
+      "2026-09-15": 15
     }
   },
   {
@@ -329,9 +329,9 @@
     "slug": "r2-partners",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.79%",
     "time": 1548,
     "timeDay": 1316,
@@ -360,8 +360,7 @@
       "2026-06-24": 65,
       "2026-07-04": 112,
       "2026-09-08": 16,
-      "2026-09-15": 10,
-      "2026-09-26": 7
+      "2026-09-15": 10
     }
   },
   {
@@ -559,8 +558,8 @@
     "slug": "caminada",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 1312,
@@ -587,8 +586,7 @@
       "2026-06-24": 60,
       "2026-07-04": 102,
       "2026-09-08": 11,
-      "2026-09-15": 5,
-      "2026-09-26": 2
+      "2026-09-15": 5
     }
   },
   {
