@@ -13,7 +13,7 @@
     "time": 1366,
     "timeDay": 400,
     "timeWeek": 462,
-    "timeMonth": 489,
+    "timeMonth": 484,
     "timeYear": 1405,
     "dailyMinutesDown": {
       "2025-12-04": 18,
@@ -68,7 +68,7 @@
     "time": 1911,
     "timeDay": 1595,
     "timeWeek": 1768,
-    "timeMonth": 1709,
+    "timeMonth": 1693,
     "timeYear": 1882,
     "dailyMinutesDown": {
       "2026-08-16": 22,
@@ -123,7 +123,7 @@
     "time": 972,
     "timeDay": 730,
     "timeWeek": 796,
-    "timeMonth": 858,
+    "timeMonth": 848,
     "timeYear": 960,
     "dailyMinutesDown": {
       "2026-02-18": 64,
@@ -164,7 +164,7 @@
     "time": 3903,
     "timeDay": 3429,
     "timeWeek": 3320,
-    "timeMonth": 3423,
+    "timeMonth": 3464,
     "timeYear": 3520,
     "dailyMinutesDown": {
       "2025-10-12": 34,
@@ -257,14 +257,14 @@
     "slug": "kaikehrer",
     "status": "up",
     "uptime": "96.15%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1083,
     "timeDay": 10441,
     "timeWeek": 3293,
-    "timeMonth": 1691,
+    "timeMonth": 1715,
     "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-11-18": 185,
@@ -275,8 +275,7 @@
       "2026-03-10": 22,
       "2026-04-20": 16,
       "2026-05-04": 95,
-      "2026-07-06": 169,
-      "2026-09-26": 5
+      "2026-07-06": 169
     }
   },
   {
@@ -286,14 +285,14 @@
     "slug": "licht",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
     "time": 1093,
     "timeDay": 10207,
     "timeWeek": 3163,
-    "timeMonth": 2033,
+    "timeMonth": 2068,
     "timeYear": 1093,
     "dailyMinutesDown": {
       "2025-11-18": 171,
@@ -302,8 +301,7 @@
       "2026-03-09": 47,
       "2026-04-09": 39,
       "2026-07-06": 168,
-      "2026-09-09": 16,
-      "2026-09-26": 4
+      "2026-09-09": 16
     }
   },
   {
@@ -313,18 +311,16 @@
     "slug": "licht2",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 929,
     "timeDay": 10429,
     "timeWeek": 3155,
-    "timeMonth": 1479,
+    "timeMonth": 1500,
     "timeYear": 929,
-    "dailyMinutesDown": {
-      "2026-09-26": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "R2Partners",
@@ -340,7 +336,7 @@
     "time": 1547,
     "timeDay": 1293,
     "timeWeek": 1440,
-    "timeMonth": 1494,
+    "timeMonth": 1476,
     "timeYear": 1549,
     "dailyMinutesDown": {
       "2026-02-18": 67,
@@ -376,12 +372,12 @@
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.81%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "98.62%",
     "time": 1458,
     "timeDay": 1040,
     "timeWeek": 1079,
-    "timeMonth": 1194,
+    "timeMonth": 1193,
     "timeYear": 1434,
     "dailyMinutesDown": {
       "2026-06-05": 59,
@@ -444,12 +440,12 @@
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.25%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "98.48%",
     "time": 4047,
     "timeDay": 8855,
     "timeWeek": 4596,
-    "timeMonth": 4848,
+    "timeMonth": 4762,
     "timeYear": 4012,
     "dailyMinutesDown": {
       "2026-06-23": 218,
@@ -513,7 +509,7 @@
     "time": 2527,
     "timeDay": 1971,
     "timeWeek": 1894,
-    "timeMonth": 2116,
+    "timeMonth": 2074,
     "timeYear": 2041,
     "dailyMinutesDown": {
       "2025-10-26": 16,
@@ -548,7 +544,7 @@
     "time": 653,
     "timeDay": 645,
     "timeWeek": 481,
-    "timeMonth": 520,
+    "timeMonth": 506,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -569,7 +565,7 @@
     "time": 1312,
     "timeDay": 1352,
     "timeWeek": 1198,
-    "timeMonth": 1194,
+    "timeMonth": 1180,
     "timeYear": 1348,
     "dailyMinutesDown": {
       "2026-01-28": 18,
@@ -607,7 +603,7 @@
     "time": 1528,
     "timeDay": 2768,
     "timeWeek": 1374,
-    "timeMonth": 1381,
+    "timeMonth": 1378,
     "timeYear": 1489,
     "dailyMinutesDown": {
       "2026-08-04": 148,
@@ -668,7 +664,7 @@
     "time": 1592,
     "timeDay": 1106,
     "timeWeek": 1512,
-    "timeMonth": 1373,
+    "timeMonth": 1371,
     "timeYear": 1533,
     "dailyMinutesDown": {
       "2026-08-04": 128,
@@ -729,7 +725,7 @@
     "time": 1136,
     "timeDay": 857,
     "timeWeek": 1011,
-    "timeMonth": 1076,
+    "timeMonth": 1072,
     "timeYear": 1155,
     "dailyMinutesDown": {
       "2026-06-14": 555,
@@ -808,7 +804,7 @@
     "time": 1985,
     "timeDay": 1815,
     "timeWeek": 1752,
-    "timeMonth": 2519,
+    "timeMonth": 2527,
     "timeYear": 2003,
     "dailyMinutesDown": {
       "2026-06-07": 238,
@@ -878,7 +874,7 @@
     "time": 1610,
     "timeDay": 1316,
     "timeWeek": 1441,
-    "timeMonth": 1453,
+    "timeMonth": 1451,
     "timeYear": 1579,
     "dailyMinutesDown": {
       "2026-06-06": 93,
