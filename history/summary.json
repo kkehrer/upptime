@@ -8,12 +8,12 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.57%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.73%",
     "time": 1334,
     "timeDay": 462,
     "timeWeek": 420,
-    "timeMonth": 458,
+    "timeMonth": 456,
     "timeYear": 1365,
     "dailyMinutesDown": {
       "2025-12-04": 18,
@@ -128,7 +128,7 @@
     "time": 971,
     "timeDay": 973,
     "timeWeek": 769,
-    "timeMonth": 810,
+    "timeMonth": 814,
     "timeYear": 961,
     "dailyMinutesDown": {
       "2026-02-18": 64,
@@ -345,7 +345,7 @@
     "time": 1554,
     "timeDay": 1505,
     "timeWeek": 1402,
-    "timeMonth": 1555,
+    "timeMonth": 1556,
     "timeYear": 1557,
     "dailyMinutesDown": {
       "2026-02-18": 67,
@@ -445,16 +445,16 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "98.49%",
     "time": 4048,
-    "timeDay": 2159,
-    "timeWeek": 3619,
-    "timeMonth": 4688,
+    "timeDay": 2827,
+    "timeWeek": 3673,
+    "timeMonth": 4673,
     "timeYear": 4007,
     "dailyMinutesDown": {
       "2026-06-23": 23,
@@ -505,7 +505,7 @@
       "2026-09-28": 39,
       "2026-10-12": 53,
       "2026-10-11": 5,
-      "2026-10-14": 1
+      "2026-10-14": 24
     }
   },
   {
@@ -578,7 +578,7 @@
     "time": 1312,
     "timeDay": 1281,
     "timeWeek": 1149,
-    "timeMonth": 1208,
+    "timeMonth": 1215,
     "timeYear": 1347,
     "dailyMinutesDown": {
       "2026-01-28": 18,
