@@ -446,16 +446,16 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "98.49%",
-    "time": 4041,
-    "timeDay": 1539,
-    "timeWeek": 3037,
-    "timeMonth": 4472,
+    "time": 4040,
+    "timeDay": 2004,
+    "timeWeek": 3106,
+    "timeMonth": 4456,
     "timeYear": 4002,
     "dailyMinutesDown": {
       "2026-06-24": 299,
@@ -506,7 +506,7 @@
       "2026-10-12": 53,
       "2026-10-11": 5,
       "2026-10-14": 24,
-      "2026-10-15": 1
+      "2026-10-15": 10
     }
   },
   {
