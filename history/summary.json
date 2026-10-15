@@ -121,10 +121,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/felixadvisory.ch.ico",
     "slug": "felix-advisory",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 971,
     "timeDay": 704,
@@ -153,8 +153,7 @@
       "2026-07-04": 122,
       "2026-08-20": 15,
       "2026-09-08": 21,
-      "2026-09-15": 15,
-      "2026-10-15": 12
+      "2026-09-15": 15
     }
   },
   {
@@ -340,9 +339,9 @@
     "slug": "r2-partners",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 1554,
     "timeDay": 1162,
@@ -371,8 +370,7 @@
       "2026-06-24": 65,
       "2026-07-04": 112,
       "2026-09-08": 16,
-      "2026-09-15": 10,
-      "2026-10-15": 7
+      "2026-09-15": 10
     }
   },
   {
@@ -448,19 +446,18 @@
     "url": "https://studiopm.ch",
     "icon": "https://icons.duckduckgo.com/ip3/studiopm.ch.ico",
     "slug": "studio-pm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.18%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.17%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "98.49%",
-    "time": 4045,
-    "timeDay": 1914,
-    "timeWeek": 3299,
-    "timeMonth": 4581,
-    "timeYear": 4007,
+    "time": 4041,
+    "timeDay": 1539,
+    "timeWeek": 3037,
+    "timeMonth": 4472,
+    "timeYear": 4002,
     "dailyMinutesDown": {
-      "2026-06-23": 23,
       "2026-06-24": 299,
       "2026-06-25": 171,
       "2026-06-26": 275,
@@ -508,7 +505,8 @@
       "2026-09-28": 39,
       "2026-10-12": 53,
       "2026-10-11": 5,
-      "2026-10-14": 24
+      "2026-10-14": 24,
+      "2026-10-15": 1
     }
   },
   {
@@ -574,9 +572,9 @@
     "slug": "caminada",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1313,
     "timeDay": 998,
@@ -602,8 +600,7 @@
       "2026-06-24": 60,
       "2026-07-04": 102,
       "2026-09-08": 11,
-      "2026-09-15": 5,
-      "2026-10-15": 2
+      "2026-09-15": 5
     }
   },
   {
@@ -678,12 +675,12 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.16%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.43%",
     "time": 1587,
     "timeDay": 1398,
     "timeWeek": 1369,
-    "timeMonth": 1372,
+    "timeMonth": 1373,
     "timeYear": 1525,
     "dailyMinutesDown": {
       "2026-08-05": 124,
@@ -746,7 +743,7 @@
     "time": 1140,
     "timeDay": 750,
     "timeWeek": 863,
-    "timeMonth": 1011,
+    "timeMonth": 1005,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2026-06-14": 369,
@@ -896,7 +893,7 @@
     "time": 1601,
     "timeDay": 1338,
     "timeWeek": 1349,
-    "timeMonth": 1437,
+    "timeMonth": 1438,
     "timeYear": 1573,
     "dailyMinutesDown": {
       "2026-06-06": 93,
