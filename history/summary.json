@@ -60,17 +60,17 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "92.67%",
-    "uptimeWeek": "91.05%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "91.03%",
     "uptimeMonth": "96.63%",
     "uptimeYear": "99.30%",
-    "time": 1926,
-    "timeDay": 1495,
-    "timeWeek": 1936,
-    "timeMonth": 2115,
-    "timeYear": 1896,
+    "time": 1928,
+    "timeDay": 1720,
+    "timeWeek": 2023,
+    "timeMonth": 2137,
+    "timeYear": 1898,
     "dailyMinutesDown": {
       "2026-08-23": 17,
       "2026-08-24": 49,
@@ -115,7 +115,7 @@
       "2026-10-20": 44,
       "2026-10-22": 137,
       "2026-10-21": 618,
-      "2026-10-23": 85
+      "2026-10-23": 87
     }
   },
   {
@@ -610,9 +610,9 @@
     "slug": "kammerchor-zo",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "73.36%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "72.17%",
+    "uptimeWeek": "95.53%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "99.40%",
     "time": 1503,
     "timeDay": 1166,
@@ -664,7 +664,7 @@
       "2026-09-30": 22,
       "2026-10-20": 22,
       "2026-10-21": 27,
-      "2026-10-23": 384
+      "2026-10-23": 401
     }
   },
   {
@@ -737,9 +737,9 @@
     "slug": "schmid-reisen",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "73.69%",
-    "uptimeWeek": "96.06%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "72.50%",
+    "uptimeWeek": "95.89%",
+    "uptimeMonth": "98.97%",
     "uptimeYear": "98.71%",
     "time": 1121,
     "timeDay": 744,
@@ -809,7 +809,7 @@
       "2026-09-24": 17,
       "2026-09-28": 18,
       "2026-10-21": 18,
-      "2026-10-23": 379
+      "2026-10-23": 396
     }
   },
   {
@@ -890,10 +890,10 @@
     "slug": "unique-real",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "74.01%",
-    "uptimeWeek": "96.21%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "98.41%",
+    "uptimeDay": "72.83%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "98.40%",
     "time": 1592,
     "timeDay": 1207,
     "timeWeek": 1436,
@@ -952,7 +952,7 @@
       "2026-09-09": 50,
       "2026-09-22": 40,
       "2026-10-21": 8,
-      "2026-10-23": 374
+      "2026-10-23": 391
     }
   }
 ]
