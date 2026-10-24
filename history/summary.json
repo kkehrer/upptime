@@ -514,17 +514,17 @@
     "url": "https://www.wellenreiter.consulting",
     "icon": "https://icons.duckduckgo.com/ip3/www.wellenreiter.consulting.ico",
     "slug": "wellenreiter",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
-    "time": 2061,
-    "timeDay": 0,
-    "timeWeek": 2832,
-    "timeMonth": 2230,
-    "timeYear": 2060,
+    "time": 2060,
+    "timeDay": 1757,
+    "timeWeek": 2697,
+    "timeMonth": 2214,
+    "timeYear": 2059,
     "dailyMinutesDown": {
       "2025-10-26": 16,
       "2025-12-04": 44,
@@ -542,7 +542,7 @@
       "2026-07-24": 319,
       "2026-07-26": 1,
       "2026-07-25": 44,
-      "2026-10-24": 16
+      "2026-10-24": 17
     }
   },
   {
@@ -611,9 +611,9 @@
     "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.26%",
-    "uptimeMonth": "94.95%",
-    "uptimeYear": "99.09%",
+    "uptimeWeek": "79.09%",
+    "uptimeMonth": "94.91%",
+    "uptimeYear": "99.08%",
     "time": 1503,
     "timeDay": 0,
     "timeWeek": 1237,
@@ -664,7 +664,7 @@
       "2026-09-30": 22,
       "2026-10-20": 22,
       "2026-10-21": 27,
-      "2026-10-24": 1363,
+      "2026-10-24": 1380,
       "2026-10-23": 678
     }
   },
@@ -740,9 +740,9 @@
     "status": "down",
     "uptime": "99.53%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.62%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "79.46%",
+    "uptimeMonth": "95.23%",
+    "uptimeYear": "98.39%",
     "time": 1121,
     "timeDay": 0,
     "timeWeek": 946,
@@ -811,7 +811,7 @@
       "2026-09-24": 17,
       "2026-09-28": 18,
       "2026-10-21": 18,
-      "2026-10-24": 1364,
+      "2026-10-24": 1380,
       "2026-10-23": 673
     }
   },
@@ -895,8 +895,8 @@
     "status": "down",
     "uptime": "99.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.76%",
-    "uptimeMonth": "95.34%",
+    "uptimeWeek": "79.60%",
+    "uptimeMonth": "95.31%",
     "uptimeYear": "98.09%",
     "time": 1592,
     "timeDay": 0,
@@ -956,7 +956,7 @@
       "2026-09-09": 50,
       "2026-09-22": 40,
       "2026-10-21": 8,
-      "2026-10-24": 1364,
+      "2026-10-24": 1380,
       "2026-10-23": 668
     }
   }
