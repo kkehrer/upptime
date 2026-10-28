@@ -60,19 +60,19 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "94.16%",
-    "uptimeMonth": "96.85%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "94.57%",
+    "uptimeMonth": "96.84%",
     "uptimeYear": "99.31%",
-    "time": 1924,
-    "timeDay": 1510,
-    "timeWeek": 1876,
-    "timeMonth": 2269,
-    "timeYear": 1898,
+    "time": 1923,
+    "timeDay": 1315,
+    "timeWeek": 1827,
+    "timeMonth": 2250,
+    "timeYear": 1897,
     "dailyMinutesDown": {
-      "2026-08-25": 70,
+      "2026-08-25": 55,
       "2026-08-26": 106,
       "2026-08-27": 245,
       "2026-08-30": 72,
@@ -116,7 +116,7 @@
       "2026-10-23": 87,
       "2026-10-24": 38,
       "2026-10-25": 17,
-      "2026-10-28": 18
+      "2026-10-28": 23
     }
   },
   {
@@ -166,10 +166,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/goldhahn.swiss.ico",
     "slug": "goldhahn",
     "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.86%",
+    "uptime": "99.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "97.01%",
     "time": 3650,
     "timeDay": 6459,
@@ -254,8 +254,7 @@
       "2026-09-10": 53,
       "2026-09-11": 7,
       "2026-09-14": 52,
-      "2026-09-28": 52,
-      "2026-10-28": 7
+      "2026-09-28": 52
     }
   },
   {
@@ -745,9 +744,9 @@
     "status": "down",
     "uptime": "99.22%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "25.11%",
-    "uptimeMonth": "82.68%",
-    "uptimeYear": "97.35%",
+    "uptimeWeek": "24.64%",
+    "uptimeMonth": "82.58%",
+    "uptimeYear": "97.34%",
     "time": 1125,
     "timeDay": 0,
     "timeWeek": 1597,
@@ -820,7 +819,7 @@
       "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 673,
-      "2026-10-28": 1148,
+      "2026-10-28": 1195,
       "2026-10-27": 1440
     }
   },
