@@ -62,9 +62,9 @@
     "slug": "cavedelorge",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "96.97%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "96.99%",
     "uptimeYear": "99.31%",
     "time": 1922,
     "timeDay": 1621,
@@ -72,7 +72,7 @@
     "timeMonth": 2242,
     "timeYear": 1897,
     "dailyMinutesDown": {
-      "2026-08-25": 55,
+      "2026-08-25": 70,
       "2026-08-26": 106,
       "2026-08-27": 245,
       "2026-08-30": 72,
@@ -116,8 +116,7 @@
       "2026-10-23": 87,
       "2026-10-24": 38,
       "2026-10-25": 17,
-      "2026-10-28": 18,
-      "2026-10-29": 10
+      "2026-10-28": 18
     }
   },
   {
@@ -743,16 +742,16 @@
     "url": "https://www.schmidreisen.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.schmidreisen.ch.ico",
     "slug": "schmid-reisen",
-    "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "15.58%",
-    "uptimeMonth": "80.53%",
-    "uptimeYear": "97.17%",
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "14.01%",
+    "uptimeMonth": "80.17%",
+    "uptimeYear": "97.14%",
     "time": 1126,
-    "timeDay": 0,
-    "timeWeek": 2075,
-    "timeMonth": 1067,
+    "timeDay": 836,
+    "timeWeek": 1662,
+    "timeMonth": 1059,
     "timeYear": 1148,
     "dailyMinutesDown": {
       "2026-06-14": 207,
@@ -821,7 +820,7 @@
       "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 673,
-      "2026-10-29": 668,
+      "2026-10-29": 827,
       "2026-10-28": 1440,
       "2026-10-27": 1440
     }
