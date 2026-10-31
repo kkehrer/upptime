@@ -61,17 +61,17 @@
     "url": "https://cavedelorge.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cavedelorge.ch.ico",
     "slug": "cavedelorge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.29%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.28%",
     "uptimeMonth": "97.02%",
     "uptimeYear": "99.31%",
     "time": 1915,
-    "timeDay": 1491,
-    "timeWeek": 1677,
-    "timeMonth": 2160,
-    "timeYear": 1893,
+    "timeDay": 1607,
+    "timeWeek": 1710,
+    "timeMonth": 2165,
+    "timeYear": 1894,
     "dailyMinutesDown": {
       "2026-08-25": 31,
       "2026-08-26": 106,
@@ -118,7 +118,7 @@
       "2026-10-24": 38,
       "2026-10-25": 17,
       "2026-10-28": 18,
-      "2026-10-31": 16
+      "2026-10-31": 17
     }
   },
   {
@@ -128,9 +128,9 @@
     "slug": "felix-advisory",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 969,
     "timeDay": 987,
@@ -159,8 +159,7 @@
       "2026-07-04": 122,
       "2026-08-20": 15,
       "2026-09-08": 21,
-      "2026-09-15": 15,
-      "2026-10-31": 12
+      "2026-09-15": 15
     }
   },
   {
@@ -343,9 +342,9 @@
     "slug": "r2-partners",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 1539,
     "timeDay": 1590,
@@ -374,8 +373,7 @@
       "2026-06-24": 65,
       "2026-07-04": 112,
       "2026-09-08": 16,
-      "2026-09-15": 10,
-      "2026-10-31": 7
+      "2026-09-15": 10
     }
   },
   {
@@ -577,9 +575,9 @@
     "slug": "caminada",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1314,
     "timeDay": 1273,
@@ -605,8 +603,7 @@
       "2026-06-24": 60,
       "2026-07-04": 102,
       "2026-09-08": 11,
-      "2026-09-15": 5,
-      "2026-10-31": 3
+      "2026-09-15": 5
     }
   },
   {
@@ -617,7 +614,7 @@
     "status": "up",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.00%",
+    "uptimeWeek": "69.02%",
     "uptimeMonth": "90.59%",
     "uptimeYear": "98.71%",
     "time": 1498,
@@ -750,7 +747,7 @@
     "status": "up",
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "23.14%",
+    "uptimeWeek": "23.17%",
     "uptimeMonth": "80.17%",
     "uptimeYear": "97.14%",
     "time": 1128,
@@ -910,7 +907,7 @@
     "status": "up",
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.49%",
+    "uptimeWeek": "69.51%",
     "uptimeMonth": "90.87%",
     "uptimeYear": "97.72%",
     "time": 1587,
