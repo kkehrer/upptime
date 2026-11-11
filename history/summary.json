@@ -68,7 +68,7 @@
     "uptimeMonth": "97.63%",
     "uptimeYear": "99.31%",
     "time": 1929,
-    "timeDay": 2313,
+    "timeDay": 3316,
     "timeWeek": 1960,
     "timeMonth": 1862,
     "timeYear": 1878,
@@ -129,9 +129,9 @@
     "slug": "felix-advisory",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 949,
     "timeDay": 812,
@@ -160,8 +160,7 @@
       "2026-07-04": 122,
       "2026-08-20": 15,
       "2026-09-08": 21,
-      "2026-09-15": 15,
-      "2026-11-11": 14
+      "2026-09-15": 15
     }
   },
   {
@@ -343,9 +342,9 @@
     "slug": "r2-partners",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 1537,
     "timeDay": 1137,
@@ -374,8 +373,7 @@
       "2026-06-24": 65,
       "2026-07-04": 112,
       "2026-09-08": 16,
-      "2026-09-15": 10,
-      "2026-11-11": 5
+      "2026-09-15": 10
     }
   },
   {
@@ -385,7 +383,7 @@
     "slug": "seilers-werbeblog",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "96.25%",
+    "uptimeDay": "96.58%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.64%",
@@ -577,17 +575,17 @@
     "url": "https://www.caminada.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.caminada.ch.ico",
     "slug": "caminada",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.87%",
-    "time": 1384,
-    "timeDay": 19379,
-    "timeWeek": 5990,
-    "timeMonth": 2372,
-    "timeYear": 1427,
+    "time": 1383,
+    "timeDay": 13296,
+    "timeWeek": 5450,
+    "timeMonth": 2335,
+    "timeYear": 1426,
     "dailyMinutesDown": {
       "2026-01-28": 18,
       "2026-02-18": 16,
@@ -608,7 +606,7 @@
       "2026-07-04": 102,
       "2026-09-08": 11,
       "2026-09-15": 5,
-      "2026-11-11": 6
+      "2026-11-11": 23
     }
   },
   {
