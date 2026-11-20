@@ -611,15 +611,15 @@
     "url": "https://www.kammerchor-zo.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.kammerchor-zo.ch.ico",
     "slug": "kammerchor-zo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "90.41%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "90.40%",
     "uptimeYear": "98.70%",
-    "time": 1486,
-    "timeDay": 1214,
-    "timeWeek": 1445,
+    "time": 1485,
+    "timeDay": 1310,
+    "timeWeek": 1451,
     "timeMonth": 1494,
     "timeYear": 1476,
     "dailyMinutesDown": {
@@ -672,7 +672,7 @@
       "2026-10-23": 678,
       "2026-10-28": 22,
       "2026-11-01": 82,
-      "2026-11-20": 43
+      "2026-11-20": 45
     }
   },
   {
@@ -680,16 +680,16 @@
     "url": "https://www.peyer-marking.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.peyer-marking.ch.ico",
     "slug": "peyer-marking",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.45%",
-    "time": 1554,
-    "timeDay": 1029,
-    "timeWeek": 1276,
-    "timeMonth": 1287,
+    "time": 1553,
+    "timeDay": 1072,
+    "timeWeek": 1263,
+    "timeMonth": 1283,
     "timeYear": 1474,
     "dailyMinutesDown": {
       "2026-08-08": 85,
@@ -738,7 +738,7 @@
       "2026-10-24": 22,
       "2026-10-28": 17,
       "2026-11-01": 77,
-      "2026-11-20": 33
+      "2026-11-20": 35
     }
   },
   {
@@ -746,16 +746,16 @@
     "url": "https://www.schmidreisen.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.schmidreisen.ch.ico",
     "slug": "schmid-reisen",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "79.98%",
     "uptimeYear": "97.13%",
     "time": 1146,
-    "timeDay": 1744,
-    "timeWeek": 1964,
-    "timeMonth": 1647,
+    "timeDay": 1485,
+    "timeWeek": 1853,
+    "timeMonth": 1625,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2026-06-14": 153,
@@ -828,7 +828,7 @@
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-11-01": 72,
-      "2026-11-20": 12
+      "2026-11-20": 13
     }
   },
   {
@@ -836,17 +836,17 @@
     "url": "https://www.taormina-law.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.taormina-law.ch.ico",
     "slug": "taormina",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "98.45%",
-    "time": 1991,
-    "timeDay": 1646,
-    "timeWeek": 1672,
-    "timeMonth": 1772,
-    "timeYear": 2005,
+    "time": 1987,
+    "timeDay": 1697,
+    "timeWeek": 1686,
+    "timeMonth": 1773,
+    "timeYear": 2004,
     "dailyMinutesDown": {
       "2026-06-08": 409,
       "2026-06-09": 651,
@@ -901,7 +901,7 @@
       "2026-10-21": 13,
       "2026-10-24": 17,
       "2026-11-01": 67,
-      "2026-11-20": 7
+      "2026-11-20": 8
     }
   },
   {
@@ -909,16 +909,16 @@
     "url": "https://www.uniquereal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.uniquereal.ch.ico",
     "slug": "unique-real",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "90.86%",
     "uptimeYear": "97.73%",
     "time": 1589,
-    "timeDay": 1238,
-    "timeWeek": 1524,
-    "timeMonth": 1554,
+    "timeDay": 1384,
+    "timeWeek": 1541,
+    "timeMonth": 1558,
     "timeYear": 1566,
     "dailyMinutesDown": {
       "2026-06-07": 306,
@@ -977,7 +977,7 @@
       "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 668,
-      "2026-11-20": 2
+      "2026-11-20": 3
     }
   }
 ]
